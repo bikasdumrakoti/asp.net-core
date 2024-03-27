@@ -1,0 +1,29 @@
+﻿@model IEnumerable<CityWeather>
+
+@{
+    ViewBag.Title = "Weather";
+    string BackgroundColor(int temperatureFahrenheit)
+    {
+        if (temperatureFahrenheit < 44)
+        {
+            return "Blue";
+        }
+        else if (temperatureFahrenheit >= 44 && temperatureFahrenheit <= 74)
+        {
+            return "Green";
+        }
+        else
+        {
+            return "Orange";
+        }
+    }
+}
+
+@foreach (CityWeather cityWeather in Model)
+{
+    <div class="box float-left w-25 @BackgroundColor(cityWeather.TemperatureFahrenheit)">
+        @{
+            await Html.RenderPartialAsync("_CityWeather", cityWeather);
+        }
+    </div>
+}

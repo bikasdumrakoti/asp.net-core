@@ -1,0 +1,32 @@
+﻿@model CityWeather
+
+@{
+    string BackgroundColor(int temperatureFahrenheit)
+    {
+        if (temperatureFahrenheit < 44)
+        {
+            return "Blue";
+        }
+        else if (temperatureFahrenheit >= 44 && temperatureFahrenheit <= 74)
+        {
+            return "Green";
+        }
+        else
+        {
+            return "Orange";
+        }
+    }
+}
+
+<div class="box float-left w-25 @BackgroundColor(Model.TemperatureFahrenheit)">
+    <div class="float-left">
+        <h3>@Model.CityName</h3>
+        <p>@Model.DateAndTime.ToShortTimeString()</p>
+        <a href="/weather/@Model.CityUniqueCode">Details</a>
+    </div>
+    <div class="float-left nested-div">
+        <h3 class="float-left">@Model.TemperatureFahrenheit</h3>
+        <p class="float-left p-degree">o</p>
+        <p class="float-left p-fahrenheit">F</p>
+    </div>
+</div>

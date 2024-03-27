@@ -1,0 +1,11 @@
+﻿@model StockTrade
+
+@{
+    ViewBag.Title = "Home";
+}
+
+<div class="box">
+    <h1 class="company-profile">@Model.StockName (@Model.StockSymbol)</h1>
+    <br />
+    <h1><span class="dollar-symbol">$</span> @Model.Price</h1>
+</div>

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\aspnetcore\\Section 6 Controllers & IActionResult\\BankApp\\BankApp\\wwwroot\\bank-statement.pdf",
+      "PackagePath": "staticwebassets\\bank-statement.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BankApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BankApp.props",
+      "PackagePath": "build\\BankApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BankApp.props",
+      "PackagePath": "buildMultiTargeting\\BankApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BankApp.props",
+      "PackagePath": "buildTransitive\\BankApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

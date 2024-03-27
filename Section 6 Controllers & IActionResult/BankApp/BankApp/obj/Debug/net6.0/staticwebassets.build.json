@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Ox14xTSFTUB6AHwyYiu+KhiIs/imRWa0gcHtZ+t1ed8=",
+  "Source": "BankApp",
+  "BasePath": "_content/BankApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BankApp\\wwwroot",
+      "Source": "BankApp",
+      "ContentRoot": "D:\\aspnetcore\\Section 6 Controllers & IActionResult\\BankApp\\BankApp\\wwwroot\\",
+      "BasePath": "_content/BankApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\aspnetcore\\Section 6 Controllers & IActionResult\\BankApp\\BankApp\\wwwroot\\bank-statement.pdf",
+      "SourceId": "BankApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\aspnetcore\\Section 6 Controllers & IActionResult\\BankApp\\BankApp\\wwwroot\\",
+      "BasePath": "_content/BankApp",
+      "RelativePath": "bank-statement.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bank-statement.pdf"
+    }
+  ]
+}

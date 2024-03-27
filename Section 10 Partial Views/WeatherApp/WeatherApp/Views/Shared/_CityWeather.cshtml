@@ -1,0 +1,12 @@
+﻿@model CityWeather
+
+<div class="float-left">
+    <h3>@Model.CityName</h3>
+    <p>@Model.DateAndTime.ToShortTimeString()</p>
+    <a href="/weather/@Model.CityUniqueCode">Details</a>
+</div>
+<div class="float-left nested-div">
+    <h3 class="float-left">@Model.TemperatureFahrenheit</h3>
+    <p class="float-left p-degree">o</p>
+    <p class="float-left p-fahrenheit">F</p>
+</div>

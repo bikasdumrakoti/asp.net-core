@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "mDcuO/wuJXewWP46TxU4NyR417cIX/6/tlx3cgz+UL0=",
+  "Source": "ConfigurationExample",
+  "BasePath": "_content/ConfigurationExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ConfigurationExample\\wwwroot",
+      "Source": "ConfigurationExample",
+      "ContentRoot": "D:\\aspnetcore\\Section 14 Configuration\\ConfigurationExample\\ConfigurationExample\\wwwroot\\",
+      "BasePath": "_content/ConfigurationExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\aspnetcore\\Section 14 Configuration\\ConfigurationExample\\ConfigurationExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "ConfigurationExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\aspnetcore\\Section 14 Configuration\\ConfigurationExample\\ConfigurationExample\\wwwroot\\",
+      "BasePath": "_content/ConfigurationExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

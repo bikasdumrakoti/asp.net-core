@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "q9ZN4qtb/C3ZrsIhrCT7ppwVGByYSs1BDuwEMyn8Xrg=",
+  "Source": "StocksAppAssignment",
+  "BasePath": "_content/StocksAppAssignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StocksAppAssignment\\wwwroot",
+      "Source": "StocksAppAssignment",
+      "ContentRoot": "D:\\aspnetcore\\Section 14 Configuration\\StocksAppAssignment\\StocksAppAssignment\\wwwroot\\",
+      "BasePath": "_content/StocksAppAssignment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\aspnetcore\\Section 14 Configuration\\StocksAppAssignment\\StocksAppAssignment\\wwwroot\\StyleSheet.css",
+      "SourceId": "StocksAppAssignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\aspnetcore\\Section 14 Configuration\\StocksAppAssignment\\StocksAppAssignment\\wwwroot\\",
+      "BasePath": "_content/StocksAppAssignment",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

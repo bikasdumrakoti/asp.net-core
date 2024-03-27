@@ -1,0 +1,16 @@
+D:\aspnetcore\Section Random\RandomTest\RandomTest\obj\Debug\net5.0\RandomTest.csproj.AssemblyReference.cache
+D:\aspnetcore\Section Random\RandomTest\RandomTest\obj\Debug\net5.0\RandomTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcore\Section Random\RandomTest\RandomTest\obj\Debug\net5.0\RandomTest.AssemblyInfoInputs.cache
+D:\aspnetcore\Section Random\RandomTest\RandomTest\obj\Debug\net5.0\RandomTest.AssemblyInfo.cs
+D:\aspnetcore\Section Random\RandomTest\RandomTest\obj\Debug\net5.0\RandomTest.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section Random\RandomTest\RandomTest\bin\Debug\net5.0\RandomTest.exe
+D:\aspnetcore\Section Random\RandomTest\RandomTest\bin\Debug\net5.0\RandomTest.deps.json
+D:\aspnetcore\Section Random\RandomTest\RandomTest\bin\Debug\net5.0\RandomTest.runtimeconfig.json
+D:\aspnetcore\Section Random\RandomTest\RandomTest\bin\Debug\net5.0\RandomTest.runtimeconfig.dev.json
+D:\aspnetcore\Section Random\RandomTest\RandomTest\bin\Debug\net5.0\RandomTest.dll
+D:\aspnetcore\Section Random\RandomTest\RandomTest\bin\Debug\net5.0\ref\RandomTest.dll
+D:\aspnetcore\Section Random\RandomTest\RandomTest\bin\Debug\net5.0\RandomTest.pdb
+D:\aspnetcore\Section Random\RandomTest\RandomTest\obj\Debug\net5.0\RandomTest.dll
+D:\aspnetcore\Section Random\RandomTest\RandomTest\obj\Debug\net5.0\ref\RandomTest.dll
+D:\aspnetcore\Section Random\RandomTest\RandomTest\obj\Debug\net5.0\RandomTest.pdb
+D:\aspnetcore\Section Random\RandomTest\RandomTest\obj\Debug\net5.0\RandomTest.genruntimeconfig.cache
