@@ -35,7 +35,7 @@ namespace ServiceContracts
         /// <param name="searchBy">Search field to search</param>
         /// <param name="searchString">Search string to search</param>
         /// <returns>Returns all matching persons based on the given search field and search string</returns>
-        List<PersonResponse> GetFilteredPersons(string? searchBy, string? searchString);
+        List<PersonResponse> GetFilteredPersons(string searchBy, string? searchString);
 
         /// <summary>
         /// Returns sorted list of persons

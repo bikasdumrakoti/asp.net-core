@@ -1,3 +1,4 @@
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\CoverletSourceRootsMapping
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\testhost.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\testhost.exe
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
@@ -86,6 +87,12 @@ D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\zh-Hans\M
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\Entities.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\ServiceContracts.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\Services.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\Entities.pdb
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\ServiceContracts.pdb
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\Services.pdb
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\obj\Debug\net6.0\CRUDTests.csproj.AssemblyReference.cache
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\obj\Debug\net6.0\CRUDTests.GeneratedMSBuildEditorConfig.editorconfig
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\obj\Debug\net6.0\CRUDTests.AssemblyInfoInputs.cache
@@ -97,10 +104,3 @@ D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\obj\Debug\net6.0\refint\CR
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\obj\Debug\net6.0\CRUDTests.pdb
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\obj\Debug\net6.0\CRUDTests.genruntimeconfig.cache
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\obj\Debug\net6.0\ref\CRUDTests.dll
-D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\CoverletSourceRootsMapping
-D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\Entities.dll
-D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\ServiceContracts.dll
-D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\Services.dll
-D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\Entities.pdb
-D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\ServiceContracts.pdb
-D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\Services.pdb
