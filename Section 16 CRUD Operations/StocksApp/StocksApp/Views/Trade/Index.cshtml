@@ -1,0 +1,54 @@
+﻿@model StockTrade
+
+@{
+    ViewBag.Title = "Home";
+    ViewBag.BreadcrumbValue = "Microsoft Corp";
+}
+
+<form method="post">
+    <div class="box index-content">
+        <div>
+            <h1 class="company-profile">@Model.StockName (@Model.StockSymbol)</h1>
+            <br />
+            <h1><span class="dollar-symbol">$</span><span class="price"> @Model.Price</span></h1>
+            <br />
+            @if (ViewBag.Errors != null)
+            {
+                <div class="text-red">
+                    <ul>
+                        @foreach (string error in ViewBag.Errors)
+                        {
+                            <li class="ml">@error</li>
+                        }
+                    </ul>
+                </div>
+            }
+        </div>
+        <div class="vl">
+        </div>
+        <div class="buy-and-sell">
+            <h4 class="new-order">New Order</h4>
+            <br />
+            <label for="Quantity">Quantity:</label>
+            <br />
+            <input type="text" id="Quantity" name="Quantity" class="form-input" value="@Model.Quantity" placeholder="Quantity" required="required" />
+            <br />
+            <button type="submit" formaction="~/Trade/SellOrder" class="button red-back">
+                <i class="fa-solid fa-arrow-down"></i>
+                <span>Sell</span>
+            </button>
+            <button type="submit" formaction="~/Trade/BuyOrder" class="button green-back">
+                <i class="fa-solid fa-arrow-up"></i>
+                <span>Buy</span>
+            </button>
+        </div>
+    </div>
+    <input type="hidden" name="StockSymbol" id="StockSymbol" value="@Model.StockSymbol" />
+    <input type="hidden" name="StockName" value="@Model.StockName" />
+    <input type="hidden" name="Price" id="price" value="@Model.Price" />
+    <input type="hidden" id="FinnhubToken" value="@ViewBag.FinnhubToken" />
+</form>
+
+@section Scripts{
+    <script src="~/Scripts/FinnhubScript.js"></script>
+}

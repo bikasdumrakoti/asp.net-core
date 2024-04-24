@@ -1,0 +1,41 @@
+﻿@model Orders
+
+@{
+    ViewBag.Title = "Orders";
+    ViewBag.BreadcrumbValue = "Orders";
+}
+
+<div class="flex">
+    <div class="box w-48">
+        <h5 class="buy-orders">Buy Orders</h5>
+        @foreach (BuyOrderResponse buyOrderResponse in Model.BuyOrders)
+        {
+            <h3 class="stock-name-and-symbol">@buyOrderResponse.StockName (@buyOrderResponse.StockSymbol)</h3>
+            <span class="bold-it ml-new">@buyOrderResponse.Quantity</span>
+            <span class="gray-it bold-it"> shares at </span>
+            <span class="bold-it">$@buyOrderResponse.Price</span>
+            <br />
+            <span class="gray-it bold-it ml-new">Trade Amount: </span>
+            <span class="bold-it">$@Math.Round(Convert.ToDecimal(buyOrderResponse.TradeAmount), 2)</span>
+            <br />
+            <span class="gray-it ml-new date-and-time-of-order">@buyOrderResponse.DateAndTimeOfOrder?.ToString("dd MMMM yyyy hh:mm:ss tt")</span>
+            <hr class="stock-end-hr" />
+        }
+    </div>
+    <div class="box w-48">
+        <h5 class="sell-orders">Sell Orders</h5>
+        @foreach (SellOrderResponse sellOrderResponse in Model.SellOrders)
+        {
+            <h3 class="stock-name-and-symbol">@sellOrderResponse.StockName (@sellOrderResponse.StockSymbol)</h3>
+            <span class="bold-it ml-new">@sellOrderResponse.Quantity</span>
+            <span class="gray-it bold-it"> shares at </span>
+            <span class="bold-it">$@sellOrderResponse.Price</span>
+            <br />
+            <span class="gray-it bold-it ml-new">Trade Amount: </span>
+            <span class="bold-it">$@Math.Round(Convert.ToDecimal(sellOrderResponse.TradeAmount), 2)</span>
+            <br />
+            <span class="gray-it ml-new date-and-time-of-order">@sellOrderResponse.DateAndTimeOfOrder?.ToString("dd MMMM yyyy hh:mm:ss tt")</span>
+            <hr class="stock-end-hr" />
+        }
+    </div>
+</div>
