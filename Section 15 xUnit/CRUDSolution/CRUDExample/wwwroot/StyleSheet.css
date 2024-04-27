@@ -369,3 +369,9 @@ a.link-hover:hover {
 			width: auto;
 		}
 }
+
+
+.center-box {
+	width: 70%;
+	margin: auto;
+}
