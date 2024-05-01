@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a6TJ8FsrZ7ecDpyhuVbmlfszfiHmYptszAA9LtqgxsE=",
+  "Hash": "ECfp5yb8XZ2o3sQNT4icROX9VY9id1dC97ZlBTzQecY=",
   "Source": "CRUDExample",
   "BasePath": "_content/CRUDExample",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\logo.PNG"
+    },
+    {
+      "Identity": "D:\\aspnetcore\\Section 15 xUnit\\CRUDSolution\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\aspnetcore\\Section 15 xUnit\\CRUDSolution\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "Rotativa/wkhtmltopdf.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltopdf.exe"
     },
     {
       "Identity": "D:\\aspnetcore\\Section 15 xUnit\\CRUDSolution\\CRUDExample\\wwwroot\\StyleSheet.css",
