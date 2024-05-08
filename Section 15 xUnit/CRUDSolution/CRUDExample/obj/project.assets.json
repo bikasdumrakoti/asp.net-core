@@ -3599,6 +3599,33 @@
           "bin/placeholder/Entities.dll": {}
         }
       },
+      "Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entities": "1.0.0",
+          "RepositoryContracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositories.dll": {}
+        }
+      },
+      "RepositoryContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RepositoryContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RepositoryContracts.dll": {}
+        }
+      },
       "ServiceContracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -3619,6 +3646,7 @@
         "dependencies": {
           "CsvHelper": "27.2.1",
           "EPPlus": "6.0.6",
+          "RepositoryContracts": "1.0.0",
           "ServiceContracts": "1.0.0"
         },
         "compile": {
@@ -9927,6 +9955,16 @@
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
     },
+    "Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Repositories/Repositories.csproj",
+      "msbuildProject": "../Repositories/Repositories.csproj"
+    },
+    "RepositoryContracts/1.0.0": {
+      "type": "project",
+      "path": "../RepositoryContracts/RepositoryContracts.csproj",
+      "msbuildProject": "../RepositoryContracts/RepositoryContracts.csproj"
+    },
     "ServiceContracts/1.0.0": {
       "type": "project",
       "path": "../ServiceContracts/ServiceContracts.csproj",
@@ -9943,6 +9981,8 @@
       "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.5",
+      "Repositories >= 1.0.0",
+      "RepositoryContracts >= 1.0.0",
       "Rotativa.AspNetCore >= 1.2.0",
       "ServiceContracts >= 1.0.0",
       "Services >= 1.0.0"
@@ -9981,6 +10021,12 @@
           "projectReferences": {
             "D:\\aspnetcore\\Section 15 xUnit\\CRUDSolution\\Entities\\Entities.csproj": {
               "projectPath": "D:\\aspnetcore\\Section 15 xUnit\\CRUDSolution\\Entities\\Entities.csproj"
+            },
+            "D:\\aspnetcore\\Section 15 xUnit\\CRUDSolution\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\aspnetcore\\Section 15 xUnit\\CRUDSolution\\Repositories\\Repositories.csproj"
+            },
+            "D:\\aspnetcore\\Section 15 xUnit\\CRUDSolution\\RepositoryContracts\\RepositoryContracts.csproj": {
+              "projectPath": "D:\\aspnetcore\\Section 15 xUnit\\CRUDSolution\\RepositoryContracts\\RepositoryContracts.csproj"
             },
             "D:\\aspnetcore\\Section 15 xUnit\\CRUDSolution\\ServiceContracts\\ServiceContracts.csproj": {
               "projectPath": "D:\\aspnetcore\\Section 15 xUnit\\CRUDSolution\\ServiceContracts\\ServiceContracts.csproj"

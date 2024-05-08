@@ -1,0 +1,8 @@
+{
+  "Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\\StocksApp\\Entities",
+  "Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\\StocksApp\\Repositories",
+  "RepositoryContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\\StocksApp\\RepositoryContracts",
+  "ServiceContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\\StocksApp\\ServiceContracts",
+  "Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\\StocksApp\\Services",
+  "StocksApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\\StocksApp\\StocksApp"
+}

@@ -1,0 +1,15 @@
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.deps.json
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.pdb
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\RepositoryContracts\bin\Debug\net6.0\Entities.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\RepositoryContracts\bin\Debug\net6.0\Entities.pdb
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.AssemblyInfoInputs.cache
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.AssemblyInfo.cs
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.csproj.CopyComplete
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\RepositoryContracts\obj\Debug\net6.0\refint\RepositoryContracts.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.pdb
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\RepositoryContracts\obj\Debug\net6.0\ref\RepositoryContracts.dll

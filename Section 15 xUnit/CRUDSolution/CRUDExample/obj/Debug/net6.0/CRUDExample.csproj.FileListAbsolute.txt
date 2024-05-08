@@ -87,3 +87,7 @@ D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\EPPlus.
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\EPPlus.Interfaces.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\EPPlus.System.Drawing.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\RepositoryContracts.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\RepositoryContracts.pdb
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Repositories.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Repositories.pdb
