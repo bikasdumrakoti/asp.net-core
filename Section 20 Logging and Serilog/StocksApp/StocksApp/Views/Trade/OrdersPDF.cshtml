@@ -1,0 +1,47 @@
+﻿@model Orders
+
+@{
+    Layout = null;
+}
+
+<link href="@("http://" +Context.Request.Host.ToString() +"/css/StyleSheet.css")" rel="stylesheet" />
+@* http://localhost:port/css/StyleSheet.css *@
+
+<h1>Orders</h1>
+
+<table class="table w-100 margin-top">
+    <thead>
+        <tr>
+            <th>Date and Time</th>
+            <th>Stock</th>
+            <th>Order Type</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Trade Amount</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (SellOrderResponse sellOrderResponse in Model.SellOrders)
+        {
+            <tr>
+                <td>@sellOrderResponse.DateAndTimeOfOrder?.ToString("dd MMMM yyyy hh:mm:ss tt")</td>
+                <td>@sellOrderResponse.StockName (@sellOrderResponse.StockSymbol)</td>
+                <td>@nameof(SellOrder)</td>
+                <td>@sellOrderResponse.Quantity</td>
+                <td>$@sellOrderResponse.Price</td>
+                <td>@Math.Round(Convert.ToDecimal(sellOrderResponse.TradeAmount), 2)</td>
+            </tr>
+        }
+        @foreach (BuyOrderResponse buyOrderResponse in Model.BuyOrders)
+        {
+            <tr>
+                <td>@buyOrderResponse.DateAndTimeOfOrder?.ToString("dd MMMM yyyy hh:mm:ss tt")</td>
+                <td>@buyOrderResponse.StockName (@buyOrderResponse.StockSymbol)</td>
+                <td>@nameof(BuyOrder)</td>
+                <td>@buyOrderResponse.Quantity</td>
+                <td>$@buyOrderResponse.Price</td>
+                <td>@Math.Round(Convert.ToDecimal(buyOrderResponse.TradeAmount), 2)</td>
+            </tr>
+        }
+    </tbody>
+</table>

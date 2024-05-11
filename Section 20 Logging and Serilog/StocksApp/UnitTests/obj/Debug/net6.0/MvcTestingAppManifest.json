@@ -1,0 +1,8 @@
+{
+  "Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 20 Logging and Serilog\\StocksApp\\Entities",
+  "Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 20 Logging and Serilog\\StocksApp\\Repositories",
+  "RepositoryContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 20 Logging and Serilog\\StocksApp\\RepositoryContracts",
+  "ServiceContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 20 Logging and Serilog\\StocksApp\\ServiceContracts",
+  "Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 20 Logging and Serilog\\StocksApp\\Services",
+  "StocksApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 20 Logging and Serilog\\StocksApp\\StocksApp"
+}

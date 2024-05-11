@@ -76,7 +76,6 @@ D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microso
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
-D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
@@ -91,3 +90,18 @@ D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Reposit
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\RepositoryContracts.pdb
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Repositories.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Repositories.pdb
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Serilog.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\SerilogTimings.dll
