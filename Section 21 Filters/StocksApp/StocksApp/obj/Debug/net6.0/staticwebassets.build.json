@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "br6gvK7i/HpqwWDxJEG6+bPSvaGttpR7u6+GTwK5zIM=",
+  "Source": "StocksApp",
+  "BasePath": "_content/StocksApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StocksApp\\wwwroot",
+      "Source": "StocksApp",
+      "ContentRoot": "D:\\aspnetcore\\Section 21 Filters\\StocksApp\\StocksApp\\wwwroot\\",
+      "BasePath": "_content/StocksApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\aspnetcore\\Section 21 Filters\\StocksApp\\StocksApp\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "StocksApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\aspnetcore\\Section 21 Filters\\StocksApp\\StocksApp\\wwwroot\\",
+      "BasePath": "_content/StocksApp",
+      "RelativePath": "css/StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
+    },
+    {
+      "Identity": "D:\\aspnetcore\\Section 21 Filters\\StocksApp\\StocksApp\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "SourceId": "StocksApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\aspnetcore\\Section 21 Filters\\StocksApp\\StocksApp\\wwwroot\\",
+      "BasePath": "_content/StocksApp",
+      "RelativePath": "Rotativa/wkhtmltopdf.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Identity": "D:\\aspnetcore\\Section 21 Filters\\StocksApp\\StocksApp\\wwwroot\\Scripts\\FinnhubScript.js",
+      "SourceId": "StocksApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\aspnetcore\\Section 21 Filters\\StocksApp\\StocksApp\\wwwroot\\",
+      "BasePath": "_content/StocksApp",
+      "RelativePath": "Scripts/FinnhubScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Identity": "D:\\aspnetcore\\Section 21 Filters\\StocksApp\\StocksApp\\wwwroot\\Scripts\\jquery.min.js",
+      "SourceId": "StocksApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\aspnetcore\\Section 21 Filters\\StocksApp\\StocksApp\\wwwroot\\",
+      "BasePath": "_content/StocksApp",
+      "RelativePath": "Scripts/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\jquery.min.js"
+    }
+  ]
+}

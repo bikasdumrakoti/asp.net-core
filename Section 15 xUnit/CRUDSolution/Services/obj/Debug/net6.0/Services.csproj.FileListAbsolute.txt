@@ -2,7 +2,9 @@ D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\bin\Debug\net6.0\Services.d
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\bin\Debug\net6.0\Services.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\bin\Debug\net6.0\Services.pdb
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\bin\Debug\net6.0\Entities.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\bin\Debug\net6.0\RepositoryContracts.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\bin\Debug\net6.0\ServiceContracts.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\bin\Debug\net6.0\RepositoryContracts.pdb
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\bin\Debug\net6.0\ServiceContracts.pdb
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\bin\Debug\net6.0\Entities.pdb
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
@@ -15,5 +17,3 @@ D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\obj\Debug\net6.0\Services.d
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\obj\Debug\net6.0\refint\Services.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\obj\Debug\net6.0\Services.pdb
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\obj\Debug\net6.0\ref\Services.dll
-D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\bin\Debug\net6.0\RepositoryContracts.dll
-D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\bin\Debug\net6.0\RepositoryContracts.pdb

@@ -1,0 +1,8 @@
+{
+  "Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 21 Filters\\StocksApp\\Entities",
+  "Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 21 Filters\\StocksApp\\Repositories",
+  "RepositoryContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 21 Filters\\StocksApp\\RepositoryContracts",
+  "ServiceContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 21 Filters\\StocksApp\\ServiceContracts",
+  "Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 21 Filters\\StocksApp\\Services",
+  "StocksApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 21 Filters\\StocksApp\\StocksApp"
+}

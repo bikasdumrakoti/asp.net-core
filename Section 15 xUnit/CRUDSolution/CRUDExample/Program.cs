@@ -1,10 +1,5 @@
-using Entities;
-using Microsoft.EntityFrameworkCore;
-using Repositories;
-using RepositoryContracts;
+using CRUDExample;
 using Serilog;
-using ServiceContracts;
-using Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,26 +11,7 @@ builder.Host.UseSerilog((HostBuilderContext context, IServiceProvider services, 
     .ReadFrom.Services(services); //read out current app's services and make them available to serilog
 });
 
-//services
-builder.Services.AddControllersWithViews();
-
-//add services into IoC container
-builder.Services.AddScoped<ICountriesRepository, CountriesRepository>();
-builder.Services.AddScoped<IPersonsRepository, PersonsRepository>();
-
-builder.Services.AddScoped<ICountriesService, CountriesService>();
-builder.Services.AddScoped<IPersonsService, PersonsService>();
-
-builder.Services.AddDbContext<ApplicationDbContext>
-    (options =>
-    {
-        options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
-    });
-
-builder.Services.AddHttpLogging(options =>
-{
-    options.LoggingFields = Microsoft.AspNetCore.HttpLogging.HttpLoggingFields.RequestProperties | Microsoft.AspNetCore.HttpLogging.HttpLoggingFields.ResponsePropertiesAndHeaders;
-});
+builder.Services.ConfigureServices(builder.Configuration);
 
 var app = builder.Build();
 
@@ -47,12 +23,6 @@ if (builder.Environment.IsDevelopment())
 }
 
 app.UseHttpLogging();
-
-//app.Logger.LogDebug("debug-message");
-//app.Logger.LogInformation("information-message");
-//app.Logger.LogWarning("warning-message");
-//app.Logger.LogError("error-message");
-//app.Logger.LogCritical("critical-message");
 
 if (builder.Environment.IsEnvironment("Test") == false)
     Rotativa.AspNetCore.RotativaConfiguration.Setup("wwwroot", wkhtmltopdfRelativePath: "Rotativa");

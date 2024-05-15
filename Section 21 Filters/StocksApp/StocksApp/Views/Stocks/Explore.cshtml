@@ -1,0 +1,49 @@
+﻿@model List<Stock>
+
+@{
+    ViewBag.Title = "Explore";
+    ViewBag.BreadcrumbValue = "Explore";
+}
+
+<div class="view-container">
+    <div class="box w-48">
+        <div class="explore-header">
+            <h4 class="gray-it">Stocks</h4>
+            <a href="~/Stocks/Explore?showAllStocks=true">Show all stocks</a>
+        </div>
+        <ul class="list">
+            @foreach (Stock stock in Model)
+            {
+                <li>
+                    @if (Context.Request.Query.ContainsKey("showAllStocks"))
+                    {
+                        <a href="~/Stocks/Explore/@stock.StockSymbol?showAllStocks=@Context.Request.Query["showAllStocks"]">
+                            <h4>@stock.StockName</h4>
+                            <div class="gray-it">(@stock.StockSymbol)</div>
+                        </a>
+                    }
+                    else
+                    {
+                        <a href="~/Stocks/Explore/@stock.StockSymbol">
+                            <h4>@stock.StockName</h4>
+                            <div class="gray-it">(@stock.StockSymbol)</div>
+                        </a>
+                    }
+                </li>
+            }
+        </ul>
+    </div>
+    <div class="w-48">
+        @if (ViewBag.Stock is not null)
+        {
+            <vc:selected-stock stock-symbol="@ViewBag.Stock"></vc:selected-stock>
+        }
+    </div>
+</div>
+
+@if (ViewBag.Stock is not null)
+{
+    @section Scripts{
+    <script src="~/Scripts/FinnhubScript.js"></script>
+    }
+}
