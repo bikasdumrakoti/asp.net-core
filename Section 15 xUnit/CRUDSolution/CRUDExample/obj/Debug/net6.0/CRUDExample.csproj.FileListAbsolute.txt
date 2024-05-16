@@ -105,3 +105,5 @@ D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\obj\Debug\net6.0\refint\
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\obj\Debug\net6.0\CRUDExample.pdb
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\obj\Debug\net6.0\CRUDExample.genruntimeconfig.cache
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\obj\Debug\net6.0\ref\CRUDExample.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Exceptions.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\bin\Debug\net6.0\Exceptions.pdb

@@ -1,0 +1,85 @@
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\bin\Debug\net6.0\Entities.dll
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\bin\Debug\net6.0\RepositoryContracts.dll
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\bin\Debug\net6.0\RepositoryContracts.pdb
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\bin\Debug\net6.0\Entities.pdb
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\aspnetcore\Section 19 Unit Testing [Advanced, Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\bin\Debug\net6.0\Entities.dll
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\bin\Debug\net6.0\RepositoryContracts.dll
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\bin\Debug\net6.0\RepositoryContracts.pdb
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\bin\Debug\net6.0\Entities.pdb
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\aspnetcore\Section 19 Unit Testing [Advanced Moq & Repository Pattern]\StocksApp\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\bin\Debug\net6.0\Entities.dll
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\bin\Debug\net6.0\RepositoryContracts.dll
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\bin\Debug\net6.0\RepositoryContracts.pdb
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\bin\Debug\net6.0\Entities.pdb
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\aspnetcore\Section 20 Logging and Serilog\StocksApp\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\bin\Debug\net6.0\Entities.dll
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\bin\Debug\net6.0\RepositoryContracts.dll
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\bin\Debug\net6.0\RepositoryContracts.pdb
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\bin\Debug\net6.0\Entities.pdb
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\aspnetcore\Section 21 Filters\StocksApp\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\bin\Debug\net6.0\Entities.dll
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\bin\Debug\net6.0\RepositoryContracts.dll
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\bin\Debug\net6.0\RepositoryContracts.pdb
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\bin\Debug\net6.0\Entities.pdb
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\aspnetcore\Section 22 Error Handling\StocksApp\Repositories\obj\Debug\net6.0\ref\Repositories.dll

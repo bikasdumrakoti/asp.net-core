@@ -1,0 +1,12 @@
+﻿@model Dictionary<string, object>
+
+<img src="@Model["logo"]" class="logo" />
+<h2 class="vc-stock-name-and-symbol">@Model["name"] (@Model["ticker"])</h2>
+<span class="finnhub-industry-and-exchange">@Model["finnhubIndustry"]</span>
+<h5 class="exchange">Exchange:<span class="finnhub-industry-and-exchange ml-exchange">@Model["exchange"]</span></h5>
+<h1 class="h1-price"><span class="gray-it">$</span><span class="price">@Math.Round(Convert.ToDouble(Model["price"].ToString()),2)</span></h1>
+<a class="trade-now" href="~/Trade/Index/@Model["ticker"]">Trade Now</a>
+
+<input type="hidden" id="FinnhubToken" value="@ViewBag.FinnhubToken" />
+<input type="hidden" id="StockSymbol" value="@Model["ticker"]" />
+<input type="hidden" id="price" value="@Model["price"]" />

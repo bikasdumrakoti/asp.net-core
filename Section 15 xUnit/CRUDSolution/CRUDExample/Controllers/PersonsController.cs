@@ -17,7 +17,7 @@ namespace CRUDExample.Controllers
     //[TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "My-Key-From-Controller", "My-Value-From-Controller", 3 }, Order = 3)]
 
     [ResponseHeaderFilterFactory("My-Key-From-Controller", "My-Value-From-Controller", 3)]
-    [TypeFilter(typeof(HandleExceptionFilter))]
+    //[TypeFilter(typeof(HandleExceptionFilter))]
     [TypeFilter(typeof(PersonAlwaysRunResultFilter))]
     public class PersonsController : Controller
     {
@@ -118,6 +118,7 @@ namespace CRUDExample.Controllers
                 return RedirectToAction("Index");
             }
 
+            //personRequest.PersonID = Guid.NewGuid();
             PersonResponse personResponse1 = await _personsService.UpdatePerson(personRequest);
             return RedirectToAction("Index");
         }

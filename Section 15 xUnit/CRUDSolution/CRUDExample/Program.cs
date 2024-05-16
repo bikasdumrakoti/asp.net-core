@@ -1,4 +1,5 @@
 using CRUDExample;
+using CRUDExample.Middleware;
 using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,12 +16,17 @@ builder.Services.ConfigureServices(builder.Configuration);
 
 var app = builder.Build();
 
-app.UseSerilogRequestLogging();
-
 if (builder.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
 }
+else
+{
+    app.UseExceptionHandler("/Error");
+    app.UseExceptionHandlingMiddleware();
+}
+
+app.UseSerilogRequestLogging();
 
 app.UseHttpLogging();
 

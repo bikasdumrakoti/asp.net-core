@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ECfp5yb8XZ2o3sQNT4icROX9VY9id1dC97ZlBTzQecY=",
+  "Hash": "bdEgkJK8jy58TB2ZGXteFO5clDZA8Wq/Ib30BAS5mAI=",
   "Source": "CRUDExample",
   "BasePath": "_content/CRUDExample",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "D:\\aspnetcore\\Section 15 xUnit\\CRUDSolution\\CRUDExample\\wwwroot\\error.svg",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\aspnetcore\\Section 15 xUnit\\CRUDSolution\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "error.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\error.svg"
+    },
     {
       "Identity": "D:\\aspnetcore\\Section 15 xUnit\\CRUDSolution\\CRUDExample\\wwwroot\\jquery.min.js",
       "SourceId": "CRUDExample",

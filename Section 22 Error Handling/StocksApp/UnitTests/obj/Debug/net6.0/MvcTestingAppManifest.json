@@ -1,0 +1,9 @@
+{
+  "Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 22 Error Handling\\StocksApp\\Entities",
+  "Exceptions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 22 Error Handling\\StocksApp\\Exceptions",
+  "Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 22 Error Handling\\StocksApp\\Repositories",
+  "RepositoryContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 22 Error Handling\\StocksApp\\RepositoryContracts",
+  "ServiceContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 22 Error Handling\\StocksApp\\ServiceContracts",
+  "Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 22 Error Handling\\StocksApp\\Services",
+  "StocksApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\aspnetcore\\Section 22 Error Handling\\StocksApp\\StocksApp"
+}

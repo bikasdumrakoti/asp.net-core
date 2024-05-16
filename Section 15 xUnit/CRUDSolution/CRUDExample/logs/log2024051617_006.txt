@@ -1,0 +1,65 @@
+2024-05-16 17:23:16.844 +05:45 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-16 17:23:16.877 +05:45 [INF] Hosting environment: Production
+2024-05-16 17:23:16.949 +05:45 [INF] Content root path: D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\
+2024-05-16 17:24:08.960 +05:45 [INF] User profile is available. Using 'C:\Users\Bikas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-16 17:24:09.206 +05:45 [INF] Now listening on: http://localhost:5214
+2024-05-16 17:24:10.145 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5214/ - -
+2024-05-16 17:24:10.256 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2024-05-16 17:24:10.377 +05:45 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (CRUDExample)'
+2024-05-16 17:24:10.519 +05:45 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (CRUDExample).
+2024-05-16 17:24:12.239 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-16 17:24:12.269 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-16 17:24:12.270 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-16 17:24:12.316 +05:45 [INF] PersonsListActionFilter.OnActionExecuting method
+2024-05-16 17:24:12.322 +05:45 [INF] Index action method of PersonsController
+2024-05-16 17:24:12.333 +05:45 [INF] GetFilteredPersons of PersonsService
+2024-05-16 17:24:12.338 +05:45 [INF] GetAllPersons of PersonsRepository
+2024-05-16 17:24:14.422 +05:45 [INF] Entity Framework Core 6.0.5 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.5' with options: None
+2024-05-16 17:24:17.063 +05:45 [INF] Executed DbCommand (753ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonID], [p].[Address], [p].[CountryID], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetters], [p].[TaxIdentificationNumber], [c].[CountryID], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryID] = [c].[CountryID]
+2024-05-16 17:24:17.300 +05:45 [INF] Time for Filtered Persons from Database completed in 4962.8 ms
+2024-05-16 17:24:17.328 +05:45 [INF] GetSortedPersons of PersonsService
+2024-05-16 17:24:17.349 +05:45 [INF] PersonsListActionFilter.OnActionExecuted method
+2024-05-16 17:24:17.406 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-16 17:24:17.409 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-16 17:24:17.411 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-16 17:24:17.421 +05:45 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2024-05-16 17:24:17.455 +05:45 [INF] Executing ViewResult, running view Index.
+2024-05-16 17:24:17.966 +05:45 [INF] Executed ViewResult - view Index executed in 524.8548ms.
+2024-05-16 17:24:17.975 +05:45 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2024-05-16 17:24:17.985 +05:45 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (CRUDExample) in 7460.1906ms
+2024-05-16 17:24:17.989 +05:45 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (CRUDExample)'
+2024-05-16 17:24:17.996 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Thu, 16 May 2024 11:39:17 GMT
+Server: Kestrel
+Last-Modified: 2024-05-16 17:24
+Transfer-Encoding: chunked
+My-Key-From-Global: [Redacted]
+My-Key-From-Action: [Redacted]
+My-Key-From-Controller: [Redacted]
+2024-05-16 17:24:18.007 +05:45 [INF] HTTP GET / responded 200 in 7757.0269 ms
+2024-05-16 17:24:18.152 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5214/_vs/browserLink - -
+2024-05-16 17:24:18.156 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5214/_framework/aspnetcore-browser-refresh.js - -
+2024-05-16 17:24:18.174 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5214/ - - - 200 - text/html;+charset=utf-8 8036.7310ms
+2024-05-16 17:24:18.190 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5214/_framework/aspnetcore-browser-refresh.js - - - 200 12354 application/javascript;+charset=utf-8 34.1133ms
+2024-05-16 17:24:18.200 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5214/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 48.3591ms
+2024-05-16 17:24:18.499 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5214/favicon.ico - -
+2024-05-16 17:24:18.501 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /favicon.ico
+2024-05-16 17:24:18.507 +05:45 [INF] Response:
+StatusCode: 404
+2024-05-16 17:24:18.509 +05:45 [INF] HTTP GET /favicon.ico responded 404 in 8.0230 ms
+2024-05-16 17:24:18.513 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5214/favicon.ico - - - 404 0 - 13.2457ms

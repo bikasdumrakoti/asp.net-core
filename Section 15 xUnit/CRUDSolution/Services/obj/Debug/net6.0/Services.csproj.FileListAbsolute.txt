@@ -17,3 +17,5 @@ D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\obj\Debug\net6.0\Services.d
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\obj\Debug\net6.0\refint\Services.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\obj\Debug\net6.0\Services.pdb
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\obj\Debug\net6.0\ref\Services.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\bin\Debug\net6.0\Exceptions.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\Services\bin\Debug\net6.0\Exceptions.pdb

@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXFVwbG9hZEZyb21FeGNlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/aspnetcore/Section 15 xUnit/CRUDSolution/CRUDExample/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/aspnetcore/Section 15 xUnit/CRUDSolution/CRUDExample/Views/Persons/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
