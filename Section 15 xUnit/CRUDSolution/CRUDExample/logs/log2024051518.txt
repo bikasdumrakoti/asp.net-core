@@ -1,2 +1,0 @@
-2024-05-15 18:00:00.527 +05:45 [INF] Hosting environment: Development
-2024-05-15 18:00:00.575 +05:45 [INF] Content root path: D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDExample\

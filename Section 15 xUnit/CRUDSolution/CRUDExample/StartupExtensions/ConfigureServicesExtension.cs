@@ -28,8 +28,16 @@ namespace CRUDExample
             services.AddScoped<ICountriesRepository, CountriesRepository>();
             services.AddScoped<IPersonsRepository, PersonsRepository>();
 
-            services.AddScoped<ICountriesService, CountriesService>();
-            services.AddScoped<IPersonsService, PersonsService>();
+            services.AddScoped<ICountriesAdderService, CountriesAdderService>();
+            services.AddScoped<ICountriesGetterService, CountriesGetterService>();
+            services.AddScoped<ICountriesUploaderService, CountriesUploaderService>();
+
+            services.AddScoped<IPersonsGetterService, PersonsGetterServiceWithFewExcelFields>();
+            services.AddScoped<PersonsGetterService, PersonsGetterService>();
+            services.AddScoped<IPersonsAdderService, PersonsAdderService>();
+            services.AddScoped<IPersonsDeleterService, PersonsDeleterService>();
+            services.AddScoped<IPersonsUpdaterService, PersonsUpdaterService>();
+            services.AddScoped<IPersonsSorterService, PersonsSorterService>();
 
             services.AddDbContext<ApplicationDbContext>
                 (options =>

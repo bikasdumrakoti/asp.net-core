@@ -1,2 +1,0 @@
-2024-05-15 17:59:54.280 +05:45 [INF] User profile is available. Using 'C:\Users\Bikas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
-2024-05-15 17:59:59.437 +05:45 [INF] Now listening on: http://localhost:5214

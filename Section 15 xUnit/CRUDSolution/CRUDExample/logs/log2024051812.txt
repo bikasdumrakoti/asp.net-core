@@ -1,0 +1,83 @@
+2024-05-18 12:34:54.474 +05:45 [INF] User profile is available. Using 'C:\Users\Bikas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-18 12:35:16.595 +05:45 [INF] Now listening on: http://localhost:5214
+2024-05-18 12:35:20.247 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5214/ - -
+2024-05-18 12:35:23.311 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2024-05-18 12:35:26.018 +05:45 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (CRUDExample)'
+2024-05-18 12:35:40.938 +05:45 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (CRUDExample).
+2024-05-18 12:36:41.963 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-18 12:36:41.965 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-18 12:36:41.966 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-18 12:36:42.020 +05:45 [INF] PersonsListActionFilter.OnActionExecuting method
+2024-05-18 12:36:42.170 +05:45 [INF] Index action method of PersonsController
+2024-05-18 12:36:42.551 +05:45 [INF] GetFilteredPersons of PersonsService
+2024-05-18 12:36:42.941 +05:45 [INF] GetAllPersons of PersonsRepository
+2024-05-18 12:37:28.329 +05:45 [INF] Entity Framework Core 6.0.5 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.5' with options: None
+2024-05-18 12:38:07.192 +05:45 [INF] Executed DbCommand (5,517ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonID], [p].[Address], [p].[CountryID], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetters], [p].[TaxIdentificationNumber], [c].[CountryID], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryID] = [c].[CountryID]
+2024-05-18 12:38:08.944 +05:45 [INF] Time for Filtered Persons from Database completed in 86388.9 ms
+2024-05-18 12:38:10.009 +05:45 [INF] GetSortedPersons of PersonsService
+2024-05-18 12:38:12.895 +05:45 [INF] PersonsListActionFilter.OnActionExecuted method
+2024-05-18 12:38:16.795 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-18 12:38:16.852 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-18 12:38:16.854 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-18 12:38:16.865 +05:45 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2024-05-18 12:38:17.224 +05:45 [INF] Executing ViewResult, running view Index.
+2024-05-18 12:38:26.977 +05:45 [INF] Executed ViewResult - view Index executed in 10034.2983ms.
+2024-05-18 12:38:26.985 +05:45 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2024-05-18 12:38:27.026 +05:45 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (CRUDExample) in 166026.936ms
+2024-05-18 12:38:27.029 +05:45 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (CRUDExample)'
+2024-05-18 12:38:27.040 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sat, 18 May 2024 06:53:25 GMT
+Server: Kestrel
+Last-Modified: 2024-05-18 12:38
+Transfer-Encoding: chunked
+My-Key-From-Global: [Redacted]
+My-Key-From-Action: [Redacted]
+My-Key-From-Controller: [Redacted]
+2024-05-18 12:38:27.050 +05:45 [INF] HTTP GET / responded 200 in 183930.5206 ms
+2024-05-18 12:38:27.274 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5214/ - - - 200 - text/html;+charset=utf-8 187131.9344ms
+2024-05-18 12:38:27.998 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5214/_framework/aspnetcore-browser-refresh.js - -
+2024-05-18 12:38:28.009 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5214/_vs/browserLink - -
+2024-05-18 12:38:28.770 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5214/_framework/aspnetcore-browser-refresh.js - - - 200 12354 application/javascript;+charset=utf-8 772.3490ms
+2024-05-18 12:38:28.832 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5214/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 822.7358ms
+2024-05-18 12:38:46.961 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5214/Countries/UploadFromExcel - -
+2024-05-18 12:38:46.970 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Countries/UploadFromExcel
+2024-05-18 12:38:46.976 +05:45 [INF] Executing endpoint 'CRUDExample.Controllers.CountriesController.UploadFromExcel (CRUDExample)'
+2024-05-18 12:38:46.981 +05:45 [INF] Route matched with {action = "UploadFromExcel", controller = "Countries"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UploadFromExcel() on controller CRUDExample.Controllers.CountriesController (CRUDExample).
+2024-05-18 12:38:46.985 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-18 12:38:46.987 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-18 12:38:46.989 +05:45 [INF] Executing ViewResult, running view UploadFromExcel.
+2024-05-18 12:38:47.202 +05:45 [INF] Executed ViewResult - view UploadFromExcel executed in 213.2079ms.
+2024-05-18 12:38:47.204 +05:45 [INF] Executed action CRUDExample.Controllers.CountriesController.UploadFromExcel (CRUDExample) in 219.8839ms
+2024-05-18 12:38:47.207 +05:45 [INF] Executed endpoint 'CRUDExample.Controllers.CountriesController.UploadFromExcel (CRUDExample)'
+2024-05-18 12:38:47.209 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sat, 18 May 2024 06:53:46 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Set-Cookie: [Redacted]
+Transfer-Encoding: chunked
+My-Key-From-Global: [Redacted]
+X-Frame-Options: [Redacted]
+2024-05-18 12:38:47.211 +05:45 [INF] HTTP GET /Countries/UploadFromExcel responded 200 in 240.6520 ms
+2024-05-18 12:38:47.220 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5214/Countries/UploadFromExcel - - - 200 - text/html;+charset=utf-8 258.9869ms
+2024-05-18 12:38:47.229 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5214/_vs/browserLink - -
+2024-05-18 12:38:47.229 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5214/_framework/aspnetcore-browser-refresh.js - -
+2024-05-18 12:38:47.238 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5214/_framework/aspnetcore-browser-refresh.js - - - 200 12354 application/javascript;+charset=utf-8 8.8542ms
+2024-05-18 12:38:47.246 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5214/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 16.8608ms

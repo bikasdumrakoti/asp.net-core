@@ -487,3 +487,5 @@ D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\Serilog.S
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
 D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\SerilogTimings.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\Exceptions.dll
+D:\aspnetcore\Section 15 xUnit\CRUDSolution\CRUDTests\bin\Debug\net6.0\Exceptions.pdb

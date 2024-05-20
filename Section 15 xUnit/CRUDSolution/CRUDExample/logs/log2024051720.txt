@@ -1,0 +1,78 @@
+2024-05-17 20:58:10.956 +05:45 [INF] User profile is available. Using 'C:\Users\Bikas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-17 20:58:14.783 +05:45 [INF] Now listening on: http://localhost:5214
+2024-05-17 20:58:26.252 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5214/ - -
+2024-05-17 20:58:28.751 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2024-05-17 20:58:30.785 +05:45 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (CRUDExample)'
+2024-05-17 20:58:40.545 +05:45 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (CRUDExample).
+2024-05-17 20:59:41.693 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-17 20:59:41.695 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-17 20:59:41.697 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-17 20:59:41.737 +05:45 [INF] PersonsListActionFilter.OnActionExecuting method
+2024-05-17 20:59:41.765 +05:45 [INF] Index action method of PersonsController
+2024-05-17 20:59:41.803 +05:45 [INF] GetFilteredPersons of PersonsService
+2024-05-17 20:59:41.827 +05:45 [INF] GetAllPersons of PersonsRepository
+2024-05-17 20:59:45.420 +05:45 [INF] Entity Framework Core 6.0.5 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.5' with options: None
+2024-05-17 20:59:48.858 +05:45 [INF] Executed DbCommand (769ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonID], [p].[Address], [p].[CountryID], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetters], [p].[TaxIdentificationNumber], [c].[CountryID], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryID] = [c].[CountryID]
+2024-05-17 20:59:49.163 +05:45 [INF] Time for Filtered Persons from Database completed in 7356.6 ms
+2024-05-17 20:59:49.260 +05:45 [INF] GetSortedPersons of PersonsService
+2024-05-17 20:59:49.384 +05:45 [INF] PersonsListActionFilter.OnActionExecuted method
+2024-05-17 20:59:49.847 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-17 20:59:49.881 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-17 20:59:49.883 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-17 20:59:49.889 +05:45 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2024-05-17 20:59:50.001 +05:45 [INF] Executing ViewResult, running view Index.
+2024-05-17 20:59:51.518 +05:45 [INF] Executed ViewResult - view Index executed in 1607.4761ms.
+2024-05-17 20:59:51.524 +05:45 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2024-05-17 20:59:51.533 +05:45 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (CRUDExample) in 70966.6637ms
+2024-05-17 20:59:51.538 +05:45 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (CRUDExample)'
+2024-05-17 20:59:51.567 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Fri, 17 May 2024 15:14:51 GMT
+Server: Kestrel
+Last-Modified: 2024-05-17 20:59
+Transfer-Encoding: chunked
+My-Key-From-Global: [Redacted]
+My-Key-From-Action: [Redacted]
+My-Key-From-Controller: [Redacted]
+2024-05-17 20:59:51.576 +05:45 [INF] HTTP GET / responded 200 in 83026.3171 ms
+2024-05-17 20:59:51.694 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5214/ - - - 200 - text/html;+charset=utf-8 85450.8855ms
+2024-05-17 20:59:51.735 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5214/_vs/browserLink - -
+2024-05-17 20:59:51.775 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5214/_framework/aspnetcore-browser-refresh.js - -
+2024-05-17 20:59:51.801 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5214/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 65.6764ms
+2024-05-17 20:59:51.802 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5214/_framework/aspnetcore-browser-refresh.js - - - 200 12354 application/javascript;+charset=utf-8 26.6334ms
+2024-05-17 20:59:51.905 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5214/StyleSheet.css - -
+2024-05-17 20:59:51.908 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /StyleSheet.css
+2024-05-17 20:59:52.229 +05:45 [INF] The file /StyleSheet.css was not modified
+2024-05-17 20:59:52.233 +05:45 [INF] Response:
+StatusCode: 304
+Content-Type: text/css
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Tue, 14 May 2024 16:26:32 GMT
+2024-05-17 20:59:52.235 +05:45 [INF] HTTP GET /StyleSheet.css responded 304 in 327.6590 ms
+2024-05-17 20:59:52.238 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5214/StyleSheet.css - - - 304 - text/css 332.3327ms
+2024-05-17 20:59:55.704 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5214/Persons/PersonsExcel - -
+2024-05-17 20:59:55.706 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Persons/PersonsExcel
+2024-05-17 20:59:55.713 +05:45 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.PersonsExcel (CRUDExample)'
+2024-05-17 20:59:55.728 +05:45 [INF] Route matched with {action = "PersonsExcel", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PersonsExcel() on controller CRUDExample.Controllers.PersonsController (CRUDExample).
+2024-05-17 20:59:58.363 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-17 20:59:58.372 +05:45 [INF] Before logic - ResponseHeaderActionFilter
