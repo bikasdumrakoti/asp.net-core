@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\aspnetcore\\Section 24 Clean Architecture\\StocksAppSolution\\StocksApp.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "D:\\aspnetcore\\Section 24 Clean Architecture\\StocksAppSolution\\StocksApp.UI\\wwwroot\\Scripts\\FinnhubScript.js",
+      "PackagePath": "staticwebassets\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Id": "D:\\aspnetcore\\Section 24 Clean Architecture\\StocksAppSolution\\StocksApp.UI\\wwwroot\\Scripts\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\aspnetcore\\Section 24 Clean Architecture\\StocksAppSolution\\StocksApp.UI\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\aspnetcore\\Section 24 Clean Architecture\\StocksAppSolution\\StocksApp.UI\\wwwroot\\error.svg",
+      "PackagePath": "staticwebassets\\error.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StocksApp.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StocksApp.UI.props",
+      "PackagePath": "build\\StocksApp.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StocksApp.UI.props",
+      "PackagePath": "buildMultiTargeting\\StocksApp.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StocksApp.UI.props",
+      "PackagePath": "buildTransitive\\StocksApp.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
