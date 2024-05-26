@@ -1,0 +1,64 @@
+2024-05-24 21:38:17.538 +05:45 [INF] User profile is available. Using 'C:\Users\Bikas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-24 21:38:22.480 +05:45 [INF] Now listening on: https://localhost:5242
+2024-05-24 21:39:04.299 +05:45 [INF] Request starting HTTP/2 GET https://localhost:5242/ - -
+2024-05-24 21:39:05.175 +05:45 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /
+2024-05-24 21:39:06.853 +05:45 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-05-24 21:39:07.055 +05:45 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-05-24 21:39:07.117 +05:45 [INF] Response:
+StatusCode: 302
+Location: https://localhost:5242/Account/Login?ReturnUrl=%2F
+2024-05-24 21:39:07.122 +05:45 [INF] HTTP GET / responded 302 in 2238.9344 ms
+2024-05-24 21:39:07.365 +05:45 [INF] Request finished HTTP/2 GET https://localhost:5242/ - - - 302 0 - 3081.4937ms
+2024-05-24 21:39:07.485 +05:45 [INF] Request starting HTTP/2 GET https://localhost:5242/Account/Login?ReturnUrl=%2F - -
+2024-05-24 21:39:07.488 +05:45 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /Account/Login
+2024-05-24 21:39:07.646 +05:45 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-05-24 21:39:10.334 +05:45 [INF] Route matched with {action = "Login", controller = "Account", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-05-24 21:39:19.926 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-24 21:39:19.929 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-24 21:39:20.232 +05:45 [INF] Executing ViewResult, running view Login.
+2024-05-24 21:39:23.869 +05:45 [INF] Executed ViewResult - view Login executed in 3859.4171ms.
+2024-05-24 21:39:23.900 +05:45 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 13517.643ms
+2024-05-24 21:39:23.905 +05:45 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-05-24 21:39:23.913 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Fri, 24 May 2024 15:54:22 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Set-Cookie: [Redacted]
+My-Key-From-Global: [Redacted]
+X-Frame-Options: [Redacted]
+2024-05-24 21:39:23.917 +05:45 [INF] HTTP GET /Account/Login responded 200 in 16429.1258 ms
+2024-05-24 21:39:24.113 +05:45 [INF] Request starting HTTP/2 GET https://localhost:5242/_framework/aspnetcore-browser-refresh.js - -
+2024-05-24 21:39:24.175 +05:45 [INF] Request finished HTTP/2 GET https://localhost:5242/_framework/aspnetcore-browser-refresh.js - - - 200 12368 application/javascript;+charset=utf-8 61.7007ms
+2024-05-24 21:39:24.268 +05:45 [INF] Request finished HTTP/2 GET https://localhost:5242/Account/Login?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 16783.1693ms
+2024-05-24 21:39:24.321 +05:45 [INF] Request starting HTTP/2 GET https://localhost:5242/StyleSheet.css - -
+2024-05-24 21:39:24.323 +05:45 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /StyleSheet.css
+2024-05-24 21:39:24.439 +05:45 [INF] The file /StyleSheet.css was not modified
+2024-05-24 21:39:24.443 +05:45 [INF] Response:
+StatusCode: 304
+Content-Type: text/css
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 22 May 2024 13:17:01 GMT
+2024-05-24 21:39:24.445 +05:45 [INF] HTTP GET /StyleSheet.css responded 304 in 121.7080 ms
+2024-05-24 21:39:24.448 +05:45 [INF] Request finished HTTP/2 GET https://localhost:5242/StyleSheet.css - - - 304 - text/css 126.9249ms
+2024-05-24 21:39:24.495 +05:45 [INF] Request starting HTTP/2 GET https://localhost:5242/_vs/browserLink - -
+2024-05-24 21:39:25.076 +05:45 [INF] Request finished HTTP/2 GET https://localhost:5242/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 580.7831ms

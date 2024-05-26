@@ -1,0 +1,36 @@
+D:\aspnetcore\Section 24 Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcore\Section 24 Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.AssemblyInfoInputs.cache
+D:\aspnetcore\Section 24 Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.AssemblyInfo.cs
+D:\aspnetcore\Section 24 Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 24 Clean Architecture\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.deps.json
+D:\aspnetcore\Section 24 Clean Architecture\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.dll
+D:\aspnetcore\Section 24 Clean Architecture\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.pdb
+D:\aspnetcore\Section 24 Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 24 Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.dll
+D:\aspnetcore\Section 24 Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\refint\ContactsManager.Core.dll
+D:\aspnetcore\Section 24 Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.pdb
+D:\aspnetcore\Section 24 Clean Architecture\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ref\ContactsManager.Core.dll
+D:\aspnetcore\Section 25 Identity, Authorization, Security\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.deps.json
+D:\aspnetcore\Section 25 Identity, Authorization, Security\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.dll
+D:\aspnetcore\Section 25 Identity, Authorization, Security\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.pdb
+D:\aspnetcore\Section 25 Identity, Authorization, Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 25 Identity, Authorization, Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcore\Section 25 Identity, Authorization, Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.AssemblyInfoInputs.cache
+D:\aspnetcore\Section 25 Identity, Authorization, Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.AssemblyInfo.cs
+D:\aspnetcore\Section 25 Identity, Authorization, Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 25 Identity, Authorization, Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.dll
+D:\aspnetcore\Section 25 Identity, Authorization, Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\refint\ContactsManager.Core.dll
+D:\aspnetcore\Section 25 Identity, Authorization, Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.pdb
+D:\aspnetcore\Section 25 Identity, Authorization, Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ref\ContactsManager.Core.dll
+D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.deps.json
+D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.dll
+D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.pdb
+D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.AssemblyInfoInputs.cache
+D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.AssemblyInfo.cs
+D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.dll
+D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\refint\ContactsManager.Core.dll
+D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.pdb
+D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ref\ContactsManager.Core.dll

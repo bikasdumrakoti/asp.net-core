@@ -1,0 +1,52 @@
+2024-05-24 13:27:47.826 +05:45 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 13:27:48.351 +05:45 [INF] Hosting environment: Development
+2024-05-24 13:27:48.415 +05:45 [INF] Content root path: D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\
+2024-05-24 13:35:48.814 +05:45 [INF] User profile is available. Using 'C:\Users\Bikas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-24 13:35:49.308 +05:45 [INF] Now listening on: http://localhost:5242
+2024-05-24 13:35:54.275 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/ - -
+2024-05-24 13:35:54.527 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2024-05-24 13:35:54.766 +05:45 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-05-24 13:35:55.176 +05:45 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-05-24 13:35:55.181 +05:45 [INF] Response:
+StatusCode: 302
+Location: http://localhost:5242/Account/Login?ReturnUrl=%2F
+2024-05-24 13:35:55.186 +05:45 [INF] HTTP GET / responded 302 in 664.6562 ms
+2024-05-24 13:35:55.213 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/ - - - 302 0 - 950.0558ms
+2024-05-24 13:35:55.335 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/Account/Login?ReturnUrl=%2F - -
+2024-05-24 13:35:55.338 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Login
+2024-05-24 13:35:55.356 +05:45 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-05-24 13:35:55.949 +05:45 [INF] Route matched with {action = "Login", controller = "Account", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-05-24 13:35:56.779 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-24 13:35:56.782 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-24 13:35:56.793 +05:45 [INF] Executing ViewResult, running view Login.
+2024-05-24 13:35:58.383 +05:45 [INF] Executed ViewResult - view Login executed in 1587.4978ms.
+2024-05-24 13:35:58.392 +05:45 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 2438.0189ms
+2024-05-24 13:35:58.395 +05:45 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-05-24 13:35:58.400 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Fri, 24 May 2024 07:50:57 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Set-Cookie: [Redacted]
+Transfer-Encoding: chunked
+My-Key-From-Global: [Redacted]
+X-Frame-Options: [Redacted]
+2024-05-24 13:35:58.403 +05:45 [INF] HTTP GET /Account/Login responded 200 in 3065.1267 ms
+2024-05-24 13:35:58.435 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/Account/Login?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 3099.8099ms
+2024-05-24 13:35:59.173 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/_framework/aspnetcore-browser-refresh.js - -
+2024-05-24 13:35:59.201 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/_framework/aspnetcore-browser-refresh.js - - - 200 12368 application/javascript;+charset=utf-8 28.0499ms
+2024-05-24 13:35:59.241 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/_vs/browserLink - -
+2024-05-24 13:35:59.278 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 36.5672ms

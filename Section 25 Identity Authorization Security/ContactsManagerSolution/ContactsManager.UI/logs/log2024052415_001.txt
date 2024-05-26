@@ -1,0 +1,5 @@
+2024-05-24 15:04:52.182 +05:45 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 15:04:52.418 +05:45 [INF] Hosting environment: Development
+2024-05-24 15:04:52.513 +05:45 [INF] Content root path: D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\
+2024-05-24 15:07:33.782 +05:45 [INF] User profile is available. Using 'C:\Users\Bikas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-24 15:07:38.030 +05:45 [INF] Now listening on: https://localhost:5242

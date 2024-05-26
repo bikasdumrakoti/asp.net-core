@@ -1,0 +1,339 @@
+2024-05-24 11:00:20.453 +05:45 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 11:00:21.936 +05:45 [INF] Hosting environment: Development
+2024-05-24 11:00:21.940 +05:45 [INF] Content root path: D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\
+2024-05-24 11:33:28.781 +05:45 [INF] User profile is available. Using 'C:\Users\Bikas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-24 11:33:39.084 +05:45 [INF] Now listening on: http://localhost:5242
+2024-05-24 11:33:47.821 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/ - -
+2024-05-24 11:33:52.423 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2024-05-24 11:33:53.853 +05:45 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-05-24 11:33:54.902 +05:45 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-05-24 11:33:55.626 +05:45 [INF] Response:
+StatusCode: 302
+Location: http://localhost:5242/Account/Login?ReturnUrl=%2F
+2024-05-24 11:33:55.632 +05:45 [INF] HTTP GET / responded 302 in 3368.3604 ms
+2024-05-24 11:33:56.223 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/ - - - 302 0 - 8411.7706ms
+2024-05-24 11:33:57.385 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/Account/Login?ReturnUrl=%2F - -
+2024-05-24 11:33:57.388 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Login
+2024-05-24 11:33:57.746 +05:45 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-05-24 11:34:04.289 +05:45 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-05-24 11:34:52.149 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-24 11:34:52.152 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-24 11:34:53.551 +05:45 [INF] Executing ViewResult, running view Login.
+2024-05-24 11:35:06.551 +05:45 [INF] Executed ViewResult - view Login executed in 14286.4838ms.
+2024-05-24 11:35:06.793 +05:45 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 62272.8521ms
+2024-05-24 11:35:06.799 +05:45 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-05-24 11:35:06.806 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Fri, 24 May 2024 05:50:04 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+My-Key-From-Global: [Redacted]
+2024-05-24 11:35:06.810 +05:45 [INF] HTTP GET /Account/Login responded 200 in 69421.9222 ms
+2024-05-24 11:35:07.288 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/Account/Login?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 69902.5776ms
+2024-05-24 11:35:07.698 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/_vs/browserLink - -
+2024-05-24 11:35:07.758 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/_framework/aspnetcore-browser-refresh.js - -
+2024-05-24 11:35:07.903 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/_framework/aspnetcore-browser-refresh.js - - - 200 12368 application/javascript;+charset=utf-8 145.6150ms
+2024-05-24 11:35:08.343 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 644.7532ms
+2024-05-24 11:35:15.135 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/Account/Register - -
+2024-05-24 11:35:15.138 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2024-05-24 11:35:15.418 +05:45 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2024-05-24 11:35:15.422 +05:45 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-05-24 11:35:15.626 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-24 11:35:15.628 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-24 11:35:15.632 +05:45 [INF] Executing ViewResult, running view Register.
+2024-05-24 11:35:16.285 +05:45 [INF] Executed ViewResult - view Register executed in 654.8634ms.
+2024-05-24 11:35:16.290 +05:45 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 865.0865ms
+2024-05-24 11:35:16.294 +05:45 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2024-05-24 11:35:16.297 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Fri, 24 May 2024 05:50:15 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+My-Key-From-Global: [Redacted]
+2024-05-24 11:35:16.299 +05:45 [INF] HTTP GET /Account/Register responded 200 in 1161.5071 ms
+2024-05-24 11:35:16.307 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/Account/Register - - - 200 - text/html;+charset=utf-8 1172.0996ms
+2024-05-24 11:35:16.416 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/_framework/aspnetcore-browser-refresh.js - -
+2024-05-24 11:35:16.416 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/_vs/browserLink - -
+2024-05-24 11:35:16.419 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/_framework/aspnetcore-browser-refresh.js - - - 200 12368 application/javascript;+charset=utf-8 3.0620ms
+2024-05-24 11:35:16.516 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 100.0657ms
+2024-05-24 11:35:38.050 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40ex - -
+2024-05-24 11:35:38.052 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/IsEmailAlreadyRegistered
+2024-05-24 11:35:38.057 +05:45 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:35:38.091 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40exa - -
+2024-05-24 11:35:38.094 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/IsEmailAlreadyRegistered
+2024-05-24 11:35:38.096 +05:45 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:35:38.237 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40exam - -
+2024-05-24 11:35:38.239 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/IsEmailAlreadyRegistered
+2024-05-24 11:35:38.241 +05:45 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:35:38.474 +05:45 [INF] Route matched with {action = "IsEmailAlreadyRegistered", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] IsEmailAlreadyRegistered(System.String) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-05-24 11:35:38.474 +05:45 [INF] Route matched with {action = "IsEmailAlreadyRegistered", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] IsEmailAlreadyRegistered(System.String) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-05-24 11:35:38.474 +05:45 [INF] Route matched with {action = "IsEmailAlreadyRegistered", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] IsEmailAlreadyRegistered(System.String) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-05-24 11:35:38.494 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40examp - -
+2024-05-24 11:35:38.496 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/IsEmailAlreadyRegistered
+2024-05-24 11:35:38.498 +05:45 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:35:38.501 +05:45 [INF] Route matched with {action = "IsEmailAlreadyRegistered", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] IsEmailAlreadyRegistered(System.String) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-05-24 11:35:38.570 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-24 11:35:38.570 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-24 11:35:38.570 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-24 11:35:38.570 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-24 11:35:38.819 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40exampl - -
+2024-05-24 11:35:38.822 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/IsEmailAlreadyRegistered
+2024-05-24 11:35:38.824 +05:45 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:35:38.827 +05:45 [INF] Route matched with {action = "IsEmailAlreadyRegistered", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] IsEmailAlreadyRegistered(System.String) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-05-24 11:35:38.832 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-24 11:35:38.868 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40example - -
+2024-05-24 11:35:38.873 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/IsEmailAlreadyRegistered
+2024-05-24 11:35:38.875 +05:45 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:35:38.877 +05:45 [INF] Route matched with {action = "IsEmailAlreadyRegistered", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] IsEmailAlreadyRegistered(System.String) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-05-24 11:35:38.882 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-24 11:35:39.558 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40example.c - -
+2024-05-24 11:35:39.564 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/IsEmailAlreadyRegistered
+2024-05-24 11:35:39.562 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40example.co - -
+2024-05-24 11:35:39.567 +05:45 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:35:39.572 +05:45 [INF] Route matched with {action = "IsEmailAlreadyRegistered", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] IsEmailAlreadyRegistered(System.String) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-05-24 11:35:39.569 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/IsEmailAlreadyRegistered
+2024-05-24 11:35:39.577 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-24 11:35:39.580 +05:45 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:35:39.583 +05:45 [INF] Route matched with {action = "IsEmailAlreadyRegistered", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] IsEmailAlreadyRegistered(System.String) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-05-24 11:35:39.586 +05:45 [INF] Request starting HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40example.com - -
+2024-05-24 11:35:39.587 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-24 11:35:39.588 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/IsEmailAlreadyRegistered
+2024-05-24 11:35:39.591 +05:45 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:35:39.593 +05:45 [INF] Route matched with {action = "IsEmailAlreadyRegistered", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] IsEmailAlreadyRegistered(System.String) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-05-24 11:35:39.596 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-24 11:36:37.910 +05:45 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: None
+2024-05-24 11:36:37.910 +05:45 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: None
+2024-05-24 11:36:37.910 +05:45 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: None
+2024-05-24 11:36:37.910 +05:45 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: None
+2024-05-24 11:36:37.910 +05:45 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: None
+2024-05-24 11:36:37.910 +05:45 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: None
+2024-05-24 11:36:37.910 +05:45 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: None
+2024-05-24 11:36:37.910 +05:45 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: None
+2024-05-24 11:36:37.910 +05:45 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: None
+2024-05-24 11:36:53.763 +05:45 [INF] Executed DbCommand (3,379ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-05-24 11:36:53.763 +05:45 [INF] Executed DbCommand (4,023ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-05-24 11:36:53.763 +05:45 [INF] Executed DbCommand (3,385ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-05-24 11:36:53.763 +05:45 [INF] Executed DbCommand (3,370ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-05-24 11:36:53.763 +05:45 [INF] Executed DbCommand (3,386ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-05-24 11:36:53.763 +05:45 [INF] Executed DbCommand (3,364ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-05-24 11:36:53.763 +05:45 [INF] Executed DbCommand (3,375ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-05-24 11:36:53.763 +05:45 [INF] Executed DbCommand (3,357ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-05-24 11:36:53.763 +05:45 [INF] Executed DbCommand (3,810ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2024-05-24 11:36:53.977 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-24 11:36:53.977 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-24 11:36:53.977 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-24 11:36:53.977 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-24 11:36:53.977 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-24 11:36:53.977 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-24 11:36:53.977 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-24 11:36:53.977 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-24 11:36:53.977 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-24 11:36:53.985 +05:45 [INF] Executing JsonResult, writing value of type 'System.Boolean'.
+2024-05-24 11:36:53.985 +05:45 [INF] Executing JsonResult, writing value of type 'System.Boolean'.
+2024-05-24 11:36:53.985 +05:45 [INF] Executing JsonResult, writing value of type 'System.Boolean'.
+2024-05-24 11:36:53.985 +05:45 [INF] Executing JsonResult, writing value of type 'System.Boolean'.
+2024-05-24 11:36:53.987 +05:45 [INF] Executing JsonResult, writing value of type 'System.Boolean'.
+2024-05-24 11:36:53.988 +05:45 [INF] Executing JsonResult, writing value of type 'System.Boolean'.
+2024-05-24 11:36:53.990 +05:45 [INF] Executing JsonResult, writing value of type 'System.Boolean'.
+2024-05-24 11:36:53.992 +05:45 [INF] Executing JsonResult, writing value of type 'System.Boolean'.
+2024-05-24 11:36:53.994 +05:45 [INF] Executing JsonResult, writing value of type 'System.Boolean'.
+2024-05-24 11:36:54.202 +05:45 [INF] Executed action ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI) in 74606.2555ms
+2024-05-24 11:36:54.205 +05:45 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:36:54.208 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Fri, 24 May 2024 05:51:53 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+My-Key-From-Global: [Redacted]
+2024-05-24 11:36:54.209 +05:45 [INF] HTTP GET /Account/IsEmailAlreadyRegistered responded 200 in 74620.9505 ms
+2024-05-24 11:36:54.222 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40example.com - - - 200 - application/json;+charset=utf-8 74635.4570ms
+2024-05-24 11:36:54.690 +05:45 [INF] Request starting HTTP/1.1 POST http://localhost:5242/Account/Register application/x-www-form-urlencoded 306
+2024-05-24 11:36:54.695 +05:45 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2024-05-24 11:36:54.697 +05:45 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2024-05-24 11:36:54.744 +05:45 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(ContactsManager.Core.DTO.RegisterDTO) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-05-24 11:36:55.073 +05:45 [INF] Executed action ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI) in 76594.705ms
+2024-05-24 11:36:55.073 +05:45 [INF] Executed action ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI) in 76590.5427ms
+2024-05-24 11:36:55.073 +05:45 [INF] Executed action ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI) in 75486.2322ms
+2024-05-24 11:36:55.073 +05:45 [INF] Executed action ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI) in 75495.7594ms
+2024-05-24 11:36:55.073 +05:45 [INF] Executed action ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI) in 76586.6731ms
+2024-05-24 11:36:55.073 +05:45 [INF] Executed action ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI) in 76191.1984ms
+2024-05-24 11:36:55.073 +05:45 [INF] Executed action ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI) in 76567.8725ms
+2024-05-24 11:36:55.097 +05:45 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:36:55.076 +05:45 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:36:55.078 +05:45 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:36:55.081 +05:45 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:36:55.084 +05:45 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:36:55.087 +05:45 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:36:55.094 +05:45 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:36:55.073 +05:45 [INF] Executed action ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI) in 76242.095ms
+2024-05-24 11:36:55.098 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-24 11:36:55.100 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+My-Key-From-Global: [Redacted]
+2024-05-24 11:36:55.103 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+My-Key-From-Global: [Redacted]
+2024-05-24 11:36:55.105 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+My-Key-From-Global: [Redacted]
+2024-05-24 11:36:55.108 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+My-Key-From-Global: [Redacted]
+2024-05-24 11:36:55.112 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+My-Key-From-Global: [Redacted]
+2024-05-24 11:36:55.114 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+My-Key-From-Global: [Redacted]
+2024-05-24 11:36:55.117 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+My-Key-From-Global: [Redacted]
+2024-05-24 11:36:55.120 +05:45 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.IsEmailAlreadyRegistered (ContactsManager.UI)'
+2024-05-24 11:36:55.124 +05:45 [INF] HTTP GET /Account/IsEmailAlreadyRegistered responded 200 in 76627.7593 ms
+2024-05-24 11:36:55.126 +05:45 [INF] HTTP GET /Account/IsEmailAlreadyRegistered responded 200 in 77031.9109 ms
+2024-05-24 11:36:55.128 +05:45 [INF] HTTP GET /Account/IsEmailAlreadyRegistered responded 200 in 77075.4507 ms
+2024-05-24 11:36:55.129 +05:45 [INF] HTTP GET /Account/IsEmailAlreadyRegistered responded 200 in 75560.4042 ms
+2024-05-24 11:36:55.131 +05:45 [INF] HTTP GET /Account/IsEmailAlreadyRegistered responded 200 in 75567.0626 ms
+2024-05-24 11:36:55.133 +05:45 [INF] HTTP GET /Account/IsEmailAlreadyRegistered responded 200 in 76893.2006 ms
+2024-05-24 11:36:55.134 +05:45 [INF] HTTP GET /Account/IsEmailAlreadyRegistered responded 200 in 76261.8441 ms
+2024-05-24 11:36:55.136 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+My-Key-From-Global: [Redacted]
+2024-05-24 11:36:55.139 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40examp - - - 0 - application/json;+charset=utf-8 76644.7104ms
+2024-05-24 11:36:55.141 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40exa - - - 0 - application/json;+charset=utf-8 77050.1644ms
+2024-05-24 11:36:55.144 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40ex - - - 0 - application/json;+charset=utf-8 77093.7896ms
+2024-05-24 11:36:55.146 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40example.co - - - 0 - application/json;+charset=utf-8 75584.9014ms
+2024-05-24 11:36:55.149 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40example.c - - - 0 - application/json;+charset=utf-8 75591.1157ms
+2024-05-24 11:36:55.152 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40exam - - - 0 - application/json;+charset=utf-8 76914.4144ms
+2024-05-24 11:36:55.154 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40example - - - 0 - application/json;+charset=utf-8 76285.7595ms
+2024-05-24 11:36:55.156 +05:45 [INF] HTTP GET /Account/IsEmailAlreadyRegistered responded 200 in 76334.0049 ms
+2024-05-24 11:36:55.170 +05:45 [INF] Request finished HTTP/1.1 GET http://localhost:5242/Account/IsEmailAlreadyRegistered?Email=admin%40exampl - - - 0 - application/json;+charset=utf-8 76350.3061ms
+2024-05-24 11:37:14.120 +05:45 [INF] Entity Framework Core 6.0.9 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.9' with options: None
+2024-05-24 11:37:16.641 +05:45 [INF] Executed DbCommand (2,509ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-05-24 11:37:24.464 +05:45 [INF] Executed DbCommand (5,513ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [LockoutEnabled], [LockoutEnd], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PersonName], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+2024-05-24 11:37:27.739 +05:45 [INF] Executed DbCommand (1,973ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-05-24 11:37:27.766 +05:45 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[ConcurrencyStamp], [a].[Name], [a].[NormalizedName]
+FROM [AspNetRoles] AS [a]
+WHERE [a].[NormalizedName] = @__normalizedName_0
+2024-05-24 11:37:30.125 +05:45 [INF] Executed DbCommand (1,654ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 4000), @p2='?' (Size = 256), @p3='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetRoles] ([Id], [ConcurrencyStamp], [Name], [NormalizedName])
+VALUES (@p0, @p1, @p2, @p3);

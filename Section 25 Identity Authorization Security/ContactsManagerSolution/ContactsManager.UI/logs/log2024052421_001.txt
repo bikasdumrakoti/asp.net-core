@@ -1,0 +1,32 @@
+2024-05-24 21:38:22.487 +05:45 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 21:38:22.616 +05:45 [INF] Hosting environment: Development
+2024-05-24 21:38:22.625 +05:45 [INF] Content root path: D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\
+2024-05-24 21:46:33.246 +05:45 [INF] User profile is available. Using 'C:\Users\Bikas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-24 21:46:34.373 +05:45 [INF] Now listening on: https://localhost:5242
+2024-05-24 21:46:37.902 +05:45 [INF] Request starting HTTP/2 GET https://localhost:5242/ - -
+2024-05-24 21:46:38.092 +05:45 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /
+2024-05-24 21:46:38.264 +05:45 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-05-24 21:46:38.290 +05:45 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-05-24 21:46:38.295 +05:45 [INF] Response:
+StatusCode: 302
+Location: https://localhost:5242/Account/Login?ReturnUrl=%2F
+2024-05-24 21:46:38.302 +05:45 [INF] HTTP GET / responded 302 in 213.2516 ms
+2024-05-24 21:46:38.344 +05:45 [INF] Request finished HTTP/2 GET https://localhost:5242/ - - - 302 0 - 457.8275ms
+2024-05-24 21:46:38.522 +05:45 [INF] Request starting HTTP/2 GET https://localhost:5242/Account/Login?ReturnUrl=%2F - -
+2024-05-24 21:46:38.524 +05:45 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /Account/Login
+2024-05-24 21:46:38.550 +05:45 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-05-24 21:46:38.596 +05:45 [INF] Route matched with {action = "Login", controller = "Account", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-05-24 21:46:40.962 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-24 21:46:40.965 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-24 21:46:40.983 +05:45 [INF] Executing ViewResult, running view Login.

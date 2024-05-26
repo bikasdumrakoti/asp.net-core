@@ -1,0 +1,3 @@
+2024-05-24 09:33:10.763 +05:45 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 09:33:11.049 +05:45 [INF] Hosting environment: Development
+2024-05-24 09:33:11.057 +05:45 [INF] Content root path: D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\

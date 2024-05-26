@@ -1,0 +1,89 @@
+2024-05-24 15:13:27.197 +05:45 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 15:13:27.208 +05:45 [INF] Hosting environment: Development
+2024-05-24 15:13:27.231 +05:45 [INF] Content root path: D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\
+2024-05-24 15:13:48.803 +05:45 [INF] User profile is available. Using 'C:\Users\Bikas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-24 15:13:49.106 +05:45 [INF] Now listening on: https://localhost:5242
+2024-05-24 15:13:58.575 +05:45 [INF] Request starting HTTP/2 GET https://localhost:5242/ - -
+2024-05-24 15:13:59.004 +05:45 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /
+2024-05-24 15:13:59.551 +05:45 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-05-24 15:13:59.864 +05:45 [INF] AuthenticationScheme: Identity.Application was challenged.
+2024-05-24 15:13:59.868 +05:45 [INF] Response:
+StatusCode: 302
+Location: https://localhost:5242/Account/Login?ReturnUrl=%2F
+2024-05-24 15:13:59.874 +05:45 [INF] HTTP GET / responded 302 in 870.2021 ms
+2024-05-24 15:14:00.251 +05:45 [INF] Request finished HTTP/2 GET https://localhost:5242/ - - - 302 0 - 1695.6792ms
+2024-05-24 15:14:01.131 +05:45 [INF] Request starting HTTP/2 GET https://localhost:5242/Account/Login?ReturnUrl=%2F - -
+2024-05-24 15:14:01.134 +05:45 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /Account/Login
+2024-05-24 15:14:01.270 +05:45 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-05-24 15:14:03.619 +05:45 [INF] Route matched with {action = "Login", controller = "Account", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2024-05-24 15:14:12.368 +05:45 [INF] Before logic - ResponseHeaderActionFilter
+2024-05-24 15:14:12.372 +05:45 [INF] After logic - ResponseHeaderActionFilter
+2024-05-24 15:14:12.596 +05:45 [INF] Executing ViewResult, running view Login.
+2024-05-24 15:14:14.814 +05:45 [INF] Executed ViewResult - view Login executed in 2347.7969ms.
+2024-05-24 15:14:14.825 +05:45 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 11200.5991ms
+2024-05-24 15:14:14.829 +05:45 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2024-05-24 15:14:14.837 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Fri, 24 May 2024 09:29:14 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Set-Cookie: [Redacted]
+My-Key-From-Global: [Redacted]
+X-Frame-Options: [Redacted]
+2024-05-24 15:14:14.842 +05:45 [INF] HTTP GET /Account/Login responded 200 in 13707.7739 ms
+2024-05-24 15:14:15.161 +05:45 [INF] Request starting HTTP/2 GET https://localhost:5242/StyleSheet.css - -
+2024-05-24 15:14:15.171 +05:45 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /StyleSheet.css
+2024-05-24 15:14:15.172 +05:45 [INF] Request starting HTTP/2 GET https://localhost:5242/_framework/aspnetcore-browser-refresh.js - -
+2024-05-24 15:14:15.183 +05:45 [INF] Request finished HTTP/2 GET https://localhost:5242/Account/Login?ReturnUrl=%2F - - - 200 - text/html;+charset=utf-8 14051.0553ms
+2024-05-24 15:14:15.191 +05:45 [INF] Request finished HTTP/2 GET https://localhost:5242/_framework/aspnetcore-browser-refresh.js - - - 200 12368 application/javascript;+charset=utf-8 19.0270ms
+2024-05-24 15:14:15.289 +05:45 [INF] Request starting HTTP/2 GET https://localhost:5242/_vs/browserLink - -
+2024-05-24 15:14:15.350 +05:45 [INF] Request finished HTTP/2 GET https://localhost:5242/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 60.8337ms
+2024-05-24 15:14:15.375 +05:45 [INF] Sending file. Request path: '/StyleSheet.css'. Physical path: 'D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\wwwroot\StyleSheet.css'
+2024-05-24 15:14:15.378 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Fri, 24 May 2024 09:29:15 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 22 May 2024 13:17:01 GMT
+Content-Length: 10043
+2024-05-24 15:14:15.384 +05:45 [INF] HTTP GET /StyleSheet.css responded 200 in 213.4528 ms
+2024-05-24 15:14:15.389 +05:45 [INF] Request finished HTTP/2 GET https://localhost:5242/StyleSheet.css - - - 200 10043 text/css 227.9894ms
+2024-05-24 15:14:22.534 +05:45 [INF] Request starting HTTP/2 GET https://localhost:5242/favicon.ico - -
+2024-05-24 15:14:22.536 +05:45 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /favicon.ico
+2024-05-24 15:14:22.846 +05:45 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\wwwroot\favicon.ico'
+2024-05-24 15:14:22.849 +05:45 [INF] Response:
+StatusCode: 200
+Content-Type: image/x-icon
+Date: Fri, 24 May 2024 09:29:22 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Tue, 21 May 2024 06:38:23 GMT
+Content-Length: 5430
+2024-05-24 15:14:22.852 +05:45 [INF] HTTP GET /favicon.ico responded 200 in 315.3895 ms
+2024-05-24 15:14:22.854 +05:45 [INF] Request finished HTTP/2 GET https://localhost:5242/favicon.ico - - - 200 5430 image/x-icon 320.5301ms
