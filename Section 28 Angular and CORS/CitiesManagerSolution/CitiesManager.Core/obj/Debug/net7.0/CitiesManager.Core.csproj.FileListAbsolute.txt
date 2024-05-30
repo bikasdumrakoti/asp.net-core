@@ -1,0 +1,11 @@
+D:\aspnetcore\Section 28 Angular and CORS\CitiesManagerSolution\CitiesManager.Core\bin\Debug\net7.0\CitiesManager.Core.deps.json
+D:\aspnetcore\Section 28 Angular and CORS\CitiesManagerSolution\CitiesManager.Core\bin\Debug\net7.0\CitiesManager.Core.dll
+D:\aspnetcore\Section 28 Angular and CORS\CitiesManagerSolution\CitiesManager.Core\bin\Debug\net7.0\CitiesManager.Core.pdb
+D:\aspnetcore\Section 28 Angular and CORS\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\CitiesManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetcore\Section 28 Angular and CORS\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\CitiesManager.Core.AssemblyInfoInputs.cache
+D:\aspnetcore\Section 28 Angular and CORS\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\CitiesManager.Core.AssemblyInfo.cs
+D:\aspnetcore\Section 28 Angular and CORS\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\CitiesManager.Core.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 28 Angular and CORS\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\CitiesManager.Core.dll
+D:\aspnetcore\Section 28 Angular and CORS\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\refint\CitiesManager.Core.dll
+D:\aspnetcore\Section 28 Angular and CORS\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\CitiesManager.Core.pdb
+D:\aspnetcore\Section 28 Angular and CORS\CitiesManagerSolution\CitiesManager.Core\obj\Debug\net7.0\ref\CitiesManager.Core.dll
