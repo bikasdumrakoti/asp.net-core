@@ -312,7 +312,6 @@ D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net6.0\staticwebassets.build.json
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net6.0\staticwebassets.development.json
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net6.0\scopedcss\bundle\ContactsManager.UI.styles.css
-D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net6.0\ContactsManager.UI.csproj.CopyComplete
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net6.0\ContactsManager.UI.dll
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net6.0\refint\ContactsManager.UI.dll
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net6.0\ContactsManager.UI.pdb
@@ -498,3 +497,5 @@ D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net6.0\ContactsManager.UI.sourcelink.json
+D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net6.0\Contacts.7B959ECC.Up2Date

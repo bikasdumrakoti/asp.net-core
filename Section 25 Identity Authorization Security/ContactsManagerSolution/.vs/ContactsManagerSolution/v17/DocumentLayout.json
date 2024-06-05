@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|d:\\aspnetcore\\section 25 identity authorization security\\contactsmanagersolution\\contactsmanager.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|d:\\aspnetcore\\section 25 identity authorization security\\contactsmanagersolution\\contactsmanager.ui\\startupextensions\\configureservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\startupextensions\\configureservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|d:\\aspnetcore\\section 25 identity authorization security\\contactsmanagersolution\\contactsmanager.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|d:\\aspnetcore\\section 25 identity authorization security\\contactsmanagersolution\\contactsmanager.ui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EBBB28-9428-473C-B7BD-0AE3E8F188BD}|ContactsManager.Core\\ContactsManager.Core.csproj|d:\\aspnetcore\\section 25 identity authorization security\\contactsmanagersolution\\contactsmanager.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EBBB28-9428-473C-B7BD-0AE3E8F188BD}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|d:\\aspnetcore\\section 25 identity authorization security\\contactsmanagersolution\\contactsmanager.ui\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|d:\\aspnetcore\\section 25 identity authorization security\\contactsmanagersolution\\contactsmanager.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|d:\\aspnetcore\\section 25 identity authorization security\\contactsmanagersolution\\contactsmanager.ui\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|d:\\aspnetcore\\section 25 identity authorization security\\contactsmanagersolution\\contactsmanager.ui\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EBBB28-9428-473C-B7BD-0AE3E8F188BD}|ContactsManager.Core\\ContactsManager.Core.csproj|d:\\aspnetcore\\section 25 identity authorization security\\contactsmanagersolution\\contactsmanager.core\\enums\\usertypeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EBBB28-9428-473C-B7BD-0AE3E8F188BD}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\enums\\usertypeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|d:\\aspnetcore\\section 25 identity authorization security\\contactsmanagersolution\\contactsmanager.ui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{781C6322-EDB8-4FC6-8FC9-759A022587CA}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93EBBB28-9428-473C-B7BD-0AE3E8F188BD}|ContactsManager.Core\\ContactsManager.Core.csproj|d:\\aspnetcore\\section 25 identity authorization security\\contactsmanagersolution\\contactsmanager.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93EBBB28-9428-473C-B7BD-0AE3E8F188BD}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\DTO\\RegisterDTO.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "ContactsManager.Core\\DTO\\RegisterDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwB0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:29:03.853Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ContactsManager.UI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAA7wCEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:29:05.349Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:29:03.987Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:29:11.394Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigureServicesExtension.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\StartupExtensions\\ConfigureServicesExtension.cs",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\StartupExtensions\\ConfigureServicesExtension.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\StartupExtensions\\ConfigureServicesExtension.cs",
+              "RelativeToolTip": "ContactsManager.UI\\StartupExtensions\\ConfigureServicesExtension.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAswFEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:29:11.395Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\Program.cs",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Program.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\Program.cs",
+              "RelativeToolTip": "ContactsManager.UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:35:23.502Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "ContactsManager.Core\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:05:51.777Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T14:08:58.917Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserTypeOptions.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.Core\\Enums\\UserTypeOptions.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\Enums\\UserTypeOptions.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.Core\\Enums\\UserTypeOptions.cs",
+              "RelativeToolTip": "ContactsManager.Core\\Enums\\UserTypeOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:04:20.32Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContactsManager.UI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:30:11.583Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T07:34:49.506Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.UI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T07:49:39.612Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

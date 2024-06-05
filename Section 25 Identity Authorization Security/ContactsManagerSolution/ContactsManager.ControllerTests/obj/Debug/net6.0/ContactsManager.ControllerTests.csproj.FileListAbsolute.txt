@@ -549,7 +549,6 @@ D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.ControllerTests\obj\Debug\net6.0\ContactsManager.ControllerTests.AssemblyInfoInputs.cache
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.ControllerTests\obj\Debug\net6.0\ContactsManager.ControllerTests.AssemblyInfo.cs
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.ControllerTests\obj\Debug\net6.0\ContactsManager.ControllerTests.csproj.CoreCompileInputs.cache
-D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.ControllerTests\obj\Debug\net6.0\ContactsManager.ControllerTests.csproj.CopyComplete
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.ControllerTests\obj\Debug\net6.0\ContactsManager.ControllerTests.dll
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.ControllerTests\obj\Debug\net6.0\refint\ContactsManager.ControllerTests.dll
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.ControllerTests\obj\Debug\net6.0\ContactsManager.ControllerTests.pdb
@@ -735,3 +734,5 @@ D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.ControllerTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.ControllerTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.ControllerTests\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.ControllerTests\obj\Debug\net6.0\ContactsManager.ControllerTests.sourcelink.json
+D:\aspnetcore\Section 25 Identity Authorization Security\ContactsManagerSolution\ContactsManager.ControllerTests\obj\Debug\net6.0\Contacts.0D656F58.Up2Date

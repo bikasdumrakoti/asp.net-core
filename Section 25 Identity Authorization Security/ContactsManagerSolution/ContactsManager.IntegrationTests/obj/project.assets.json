@@ -16620,8 +16620,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bikas\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16629,14 +16628,11 @@
       "projectUniqueName": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.IntegrationTests\\ContactsManager.IntegrationTests.csproj",
       "projectName": "ContactsManager.IntegrationTests",
       "projectPath": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.IntegrationTests\\ContactsManager.IntegrationTests.csproj",
-      "packagesPath": "C:\\Users\\Bikas\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\",
       "outputPath": "D:\\aspnetcore\\Section 25 Identity Authorization Security\\ContactsManagerSolution\\ContactsManager.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Bikas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bikash Dumrakoti\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -16644,6 +16640,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -16660,6 +16657,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -16731,7 +16733,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
