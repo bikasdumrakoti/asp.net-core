@@ -1,0 +1,7 @@
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQOrderByExample\LINQOrderByExample\bin\Debug\LINQOrderByExample.exe.config
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQOrderByExample\LINQOrderByExample\bin\Debug\LINQOrderByExample.exe
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQOrderByExample\LINQOrderByExample\bin\Debug\LINQOrderByExample.pdb
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQOrderByExample\LINQOrderByExample\obj\Debug\LINQOrderByExample.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQOrderByExample\LINQOrderByExample\obj\Debug\LINQOrderByExample.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQOrderByExample\LINQOrderByExample\obj\Debug\LINQOrderByExample.exe
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQOrderByExample\LINQOrderByExample\obj\Debug\LINQOrderByExample.pdb

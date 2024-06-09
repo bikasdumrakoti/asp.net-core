@@ -1,0 +1,7 @@
+D:\aspnetcore\Section 32 C# Essentials\AnonymousMethodsExample\AnonymousMethodsExample\AnonymousMethodsExample\bin\Debug\AnonymousMethodsExample.exe.config
+D:\aspnetcore\Section 32 C# Essentials\AnonymousMethodsExample\AnonymousMethodsExample\AnonymousMethodsExample\bin\Debug\AnonymousMethodsExample.exe
+D:\aspnetcore\Section 32 C# Essentials\AnonymousMethodsExample\AnonymousMethodsExample\AnonymousMethodsExample\bin\Debug\AnonymousMethodsExample.pdb
+D:\aspnetcore\Section 32 C# Essentials\AnonymousMethodsExample\AnonymousMethodsExample\AnonymousMethodsExample\obj\Debug\AnonymousMethodsExample.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 32 C# Essentials\AnonymousMethodsExample\AnonymousMethodsExample\AnonymousMethodsExample\obj\Debug\AnonymousMethodsExample.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 32 C# Essentials\AnonymousMethodsExample\AnonymousMethodsExample\AnonymousMethodsExample\obj\Debug\AnonymousMethodsExample.exe
+D:\aspnetcore\Section 32 C# Essentials\AnonymousMethodsExample\AnonymousMethodsExample\AnonymousMethodsExample\obj\Debug\AnonymousMethodsExample.pdb

@@ -1,0 +1,7 @@
+D:\aspnetcore\Section 32 C# Essentials\LambdaExpressionsExample\LambdaExpressionsExample\LambdaExpressionsExample\bin\Debug\LambdaExpressionsExample.exe.config
+D:\aspnetcore\Section 32 C# Essentials\LambdaExpressionsExample\LambdaExpressionsExample\LambdaExpressionsExample\bin\Debug\LambdaExpressionsExample.exe
+D:\aspnetcore\Section 32 C# Essentials\LambdaExpressionsExample\LambdaExpressionsExample\LambdaExpressionsExample\bin\Debug\LambdaExpressionsExample.pdb
+D:\aspnetcore\Section 32 C# Essentials\LambdaExpressionsExample\LambdaExpressionsExample\LambdaExpressionsExample\obj\Debug\LambdaExpressionsExample.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 32 C# Essentials\LambdaExpressionsExample\LambdaExpressionsExample\LambdaExpressionsExample\obj\Debug\LambdaExpressionsExample.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 32 C# Essentials\LambdaExpressionsExample\LambdaExpressionsExample\LambdaExpressionsExample\obj\Debug\LambdaExpressionsExample.exe
+D:\aspnetcore\Section 32 C# Essentials\LambdaExpressionsExample\LambdaExpressionsExample\LambdaExpressionsExample\obj\Debug\LambdaExpressionsExample.pdb

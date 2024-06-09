@@ -1,0 +1,7 @@
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQWhereExample\LINQWhereExample\bin\Debug\LINQWhereExample.exe.config
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQWhereExample\LINQWhereExample\bin\Debug\LINQWhereExample.exe
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQWhereExample\LINQWhereExample\bin\Debug\LINQWhereExample.pdb
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQWhereExample\LINQWhereExample\obj\Debug\LINQWhereExample.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQWhereExample\LINQWhereExample\obj\Debug\LINQWhereExample.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQWhereExample\LINQWhereExample\obj\Debug\LINQWhereExample.exe
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQWhereExample\LINQWhereExample\obj\Debug\LINQWhereExample.pdb

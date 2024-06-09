@@ -1,0 +1,7 @@
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQGroupMethodsExample\LINQGroupMethodsExample\bin\Debug\LINQGroupMethodsExample.exe.config
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQGroupMethodsExample\LINQGroupMethodsExample\bin\Debug\LINQGroupMethodsExample.exe
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQGroupMethodsExample\LINQGroupMethodsExample\bin\Debug\LINQGroupMethodsExample.pdb
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQGroupMethodsExample\LINQGroupMethodsExample\obj\Debug\LINQGroupMethodsExample.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQGroupMethodsExample\LINQGroupMethodsExample\obj\Debug\LINQGroupMethodsExample.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQGroupMethodsExample\LINQGroupMethodsExample\obj\Debug\LINQGroupMethodsExample.exe
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQGroupMethodsExample\LINQGroupMethodsExample\obj\Debug\LINQGroupMethodsExample.pdb

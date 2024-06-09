@@ -1,0 +1,1 @@
+﻿//System.Console.WriteLine("Top-level statement from another file"); //Error: Only one compilation unit can have top-level statements

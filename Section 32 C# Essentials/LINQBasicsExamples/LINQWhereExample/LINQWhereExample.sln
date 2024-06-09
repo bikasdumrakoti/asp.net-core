@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQWhereExample", "LINQWhereExample\LINQWhereExample.csproj", "{4A6036C1-5AD4-4787-B771-A6468907E27B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A6036C1-5AD4-4787-B771-A6468907E27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6036C1-5AD4-4787-B771-A6468907E27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6036C1-5AD4-4787-B771-A6468907E27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6036C1-5AD4-4787-B771-A6468907E27B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9444726E-9644-437A-AD13-A06596EE75A3}
+	EndGlobalSection
+EndGlobal

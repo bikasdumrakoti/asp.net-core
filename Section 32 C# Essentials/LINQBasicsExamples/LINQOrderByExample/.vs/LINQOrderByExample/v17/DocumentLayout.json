@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aspnetcore\\Section 32 C# Essentials\\LINQBasicsExamples\\LINQOrderByExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6DAB95-0E99-4E34-90B6-B9376F15A60A}|LINQOrderByExample\\LINQOrderByExample.csproj|d:\\aspnetcore\\section 32 c# essentials\\linqbasicsexamples\\linqorderbyexample\\linqorderbyexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6DAB95-0E99-4E34-90B6-B9376F15A60A}|LINQOrderByExample\\LINQOrderByExample.csproj|solutionrelative:linqorderbyexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 32 C# Essentials\\LINQBasicsExamples\\LINQOrderByExample\\LINQOrderByExample\\Program.cs",
+              "RelativeDocumentMoniker": "LINQOrderByExample\\Program.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 32 C# Essentials\\LINQBasicsExamples\\LINQOrderByExample\\LINQOrderByExample\\Program.cs",
+              "RelativeToolTip": "LINQOrderByExample\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwCIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:54:45.198Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

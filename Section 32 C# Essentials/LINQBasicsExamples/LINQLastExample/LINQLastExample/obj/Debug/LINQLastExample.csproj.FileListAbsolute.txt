@@ -1,0 +1,7 @@
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQLastExample\LINQLastExample\bin\Debug\LINQLastExample.exe.config
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQLastExample\LINQLastExample\bin\Debug\LINQLastExample.exe
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQLastExample\LINQLastExample\bin\Debug\LINQLastExample.pdb
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQLastExample\LINQLastExample\obj\Debug\LINQLastExample.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQLastExample\LINQLastExample\obj\Debug\LINQLastExample.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQLastExample\LINQLastExample\obj\Debug\LINQLastExample.exe
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQLastExample\LINQLastExample\obj\Debug\LINQLastExample.pdb

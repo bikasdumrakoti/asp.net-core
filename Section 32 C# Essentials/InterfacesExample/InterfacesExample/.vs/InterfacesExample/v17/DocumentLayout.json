@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aspnetcore\\Section 32 C# Essentials\\InterfacesExample\\InterfacesExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14027CB8-CA06-4443-9360-A4A7374D6548}|InterfacesExample\\InterfacesExample.csproj|d:\\aspnetcore\\section 32 c# essentials\\interfacesexample\\interfacesexample\\interfacesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14027CB8-CA06-4443-9360-A4A7374D6548}|InterfacesExample\\InterfacesExample.csproj|solutionrelative:interfacesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8172936C-29F1-4562-B35D-D9F77C689FFA}|Implementations\\Implementations.csproj|d:\\aspnetcore\\section 32 c# essentials\\interfacesexample\\interfacesexample\\implementations\\charlie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8172936C-29F1-4562-B35D-D9F77C689FFA}|Implementations\\Implementations.csproj|solutionrelative:implementations\\charlie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8172936C-29F1-4562-B35D-D9F77C689FFA}|Implementations\\Implementations.csproj|d:\\aspnetcore\\section 32 c# essentials\\interfacesexample\\interfacesexample\\implementations\\bob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8172936C-29F1-4562-B35D-D9F77C689FFA}|Implementations\\Implementations.csproj|solutionrelative:implementations\\bob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8172936C-29F1-4562-B35D-D9F77C689FFA}|Implementations\\Implementations.csproj|d:\\aspnetcore\\section 32 c# essentials\\interfacesexample\\interfacesexample\\implementations\\alice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8172936C-29F1-4562-B35D-D9F77C689FFA}|Implementations\\Implementations.csproj|solutionrelative:implementations\\alice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A472FA-CCDD-4F9A-ADA4-9A50C0966D87}|Contracts\\Contracts.csproj|d:\\aspnetcore\\section 32 c# essentials\\interfacesexample\\interfacesexample\\contracts\\ipartytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A472FA-CCDD-4F9A-ADA4-9A50C0966D87}|Contracts\\Contracts.csproj|solutionrelative:contracts\\ipartytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPartyTask.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 32 C# Essentials\\InterfacesExample\\InterfacesExample\\Contracts\\IPartyTask.cs",
+              "RelativeDocumentMoniker": "Contracts\\IPartyTask.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 32 C# Essentials\\InterfacesExample\\InterfacesExample\\Contracts\\IPartyTask.cs",
+              "RelativeToolTip": "Contracts\\IPartyTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:16:46.657Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alice.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 32 C# Essentials\\InterfacesExample\\InterfacesExample\\Implementations\\Alice.cs",
+              "RelativeDocumentMoniker": "Implementations\\Alice.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 32 C# Essentials\\InterfacesExample\\InterfacesExample\\Implementations\\Alice.cs",
+              "RelativeToolTip": "Implementations\\Alice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:18:16.901Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bob.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 32 C# Essentials\\InterfacesExample\\InterfacesExample\\Implementations\\Bob.cs",
+              "RelativeDocumentMoniker": "Implementations\\Bob.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 32 C# Essentials\\InterfacesExample\\InterfacesExample\\Implementations\\Bob.cs",
+              "RelativeToolTip": "Implementations\\Bob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:20:12.672Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Charlie.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 32 C# Essentials\\InterfacesExample\\InterfacesExample\\Implementations\\Charlie.cs",
+              "RelativeDocumentMoniker": "Implementations\\Charlie.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 32 C# Essentials\\InterfacesExample\\InterfacesExample\\Implementations\\Charlie.cs",
+              "RelativeToolTip": "Implementations\\Charlie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:21:08.625Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 32 C# Essentials\\InterfacesExample\\InterfacesExample\\InterfacesExample\\Program.cs",
+              "RelativeDocumentMoniker": "InterfacesExample\\Program.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 32 C# Essentials\\InterfacesExample\\InterfacesExample\\InterfacesExample\\Program.cs",
+              "RelativeToolTip": "InterfacesExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:22:08.128Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

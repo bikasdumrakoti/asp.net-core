@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aspnetcore\\Section 32 C# Essentials\\LambdaExpressionsExample\\LambdaExpressionsExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E708F6AB-F392-48BE-8CC5-783C44965CE9}|LambdaExpressionsExample\\LambdaExpressionsExample.csproj|d:\\aspnetcore\\section 32 c# essentials\\lambdaexpressionsexample\\lambdaexpressionsexample\\lambdaexpressionsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E708F6AB-F392-48BE-8CC5-783C44965CE9}|LambdaExpressionsExample\\LambdaExpressionsExample.csproj|solutionrelative:lambdaexpressionsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E708F6AB-F392-48BE-8CC5-783C44965CE9}|LambdaExpressionsExample\\LambdaExpressionsExample.csproj|d:\\aspnetcore\\section 32 c# essentials\\lambdaexpressionsexample\\lambdaexpressionsexample\\lambdaexpressionsexample\\charlie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E708F6AB-F392-48BE-8CC5-783C44965CE9}|LambdaExpressionsExample\\LambdaExpressionsExample.csproj|solutionrelative:lambdaexpressionsexample\\charlie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E708F6AB-F392-48BE-8CC5-783C44965CE9}|LambdaExpressionsExample\\LambdaExpressionsExample.csproj|d:\\aspnetcore\\section 32 c# essentials\\lambdaexpressionsexample\\lambdaexpressionsexample\\lambdaexpressionsexample\\bob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E708F6AB-F392-48BE-8CC5-783C44965CE9}|LambdaExpressionsExample\\LambdaExpressionsExample.csproj|solutionrelative:lambdaexpressionsexample\\bob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E708F6AB-F392-48BE-8CC5-783C44965CE9}|LambdaExpressionsExample\\LambdaExpressionsExample.csproj|d:\\aspnetcore\\section 32 c# essentials\\lambdaexpressionsexample\\lambdaexpressionsexample\\lambdaexpressionsexample\\alice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E708F6AB-F392-48BE-8CC5-783C44965CE9}|LambdaExpressionsExample\\LambdaExpressionsExample.csproj|solutionrelative:lambdaexpressionsexample\\alice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 32 C# Essentials\\LambdaExpressionsExample\\LambdaExpressionsExample\\LambdaExpressionsExample\\Program.cs",
+              "RelativeDocumentMoniker": "LambdaExpressionsExample\\Program.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 32 C# Essentials\\LambdaExpressionsExample\\LambdaExpressionsExample\\LambdaExpressionsExample\\Program.cs",
+              "RelativeToolTip": "LambdaExpressionsExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:06:50.102Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alice.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 32 C# Essentials\\LambdaExpressionsExample\\LambdaExpressionsExample\\LambdaExpressionsExample\\Alice.cs",
+              "RelativeDocumentMoniker": "LambdaExpressionsExample\\Alice.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 32 C# Essentials\\LambdaExpressionsExample\\LambdaExpressionsExample\\LambdaExpressionsExample\\Alice.cs",
+              "RelativeToolTip": "LambdaExpressionsExample\\Alice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:08:31.037Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bob.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 32 C# Essentials\\LambdaExpressionsExample\\LambdaExpressionsExample\\LambdaExpressionsExample\\Bob.cs",
+              "RelativeDocumentMoniker": "LambdaExpressionsExample\\Bob.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 32 C# Essentials\\LambdaExpressionsExample\\LambdaExpressionsExample\\LambdaExpressionsExample\\Bob.cs",
+              "RelativeToolTip": "LambdaExpressionsExample\\Bob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:08:44.816Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Charlie.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 32 C# Essentials\\LambdaExpressionsExample\\LambdaExpressionsExample\\LambdaExpressionsExample\\Charlie.cs",
+              "RelativeDocumentMoniker": "LambdaExpressionsExample\\Charlie.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 32 C# Essentials\\LambdaExpressionsExample\\LambdaExpressionsExample\\LambdaExpressionsExample\\Charlie.cs",
+              "RelativeToolTip": "LambdaExpressionsExample\\Charlie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:08:51.04Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+D:\aspnetcore\Section 32 C# Essentials\InterfacesExample\InterfacesExample\Contracts\bin\Debug\Contracts.dll
+D:\aspnetcore\Section 32 C# Essentials\InterfacesExample\InterfacesExample\Contracts\bin\Debug\Contracts.pdb
+D:\aspnetcore\Section 32 C# Essentials\InterfacesExample\InterfacesExample\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 32 C# Essentials\InterfacesExample\InterfacesExample\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 32 C# Essentials\InterfacesExample\InterfacesExample\Contracts\obj\Debug\Contracts.dll
+D:\aspnetcore\Section 32 C# Essentials\InterfacesExample\InterfacesExample\Contracts\obj\Debug\Contracts.pdb

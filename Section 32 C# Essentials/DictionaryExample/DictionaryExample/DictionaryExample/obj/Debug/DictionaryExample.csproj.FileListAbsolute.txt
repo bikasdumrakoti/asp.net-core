@@ -1,0 +1,7 @@
+D:\aspnetcore\Section 32 C# Essentials\DictionaryExample\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+D:\aspnetcore\Section 32 C# Essentials\DictionaryExample\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe
+D:\aspnetcore\Section 32 C# Essentials\DictionaryExample\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.pdb
+D:\aspnetcore\Section 32 C# Essentials\DictionaryExample\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 32 C# Essentials\DictionaryExample\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 32 C# Essentials\DictionaryExample\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.exe
+D:\aspnetcore\Section 32 C# Essentials\DictionaryExample\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.pdb

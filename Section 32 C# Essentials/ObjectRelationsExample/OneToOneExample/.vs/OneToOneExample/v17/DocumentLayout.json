@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aspnetcore\\Section 32 C# Essentials\\ObjectRelationsExample\\OneToOneExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8E4009-06E0-4141-A387-4145943F8AEE}|OneToOneExample\\OneToOneExample.csproj|d:\\aspnetcore\\section 32 c# essentials\\objectrelationsexample\\onetooneexample\\onetooneexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8E4009-06E0-4141-A387-4145943F8AEE}|OneToOneExample\\OneToOneExample.csproj|solutionrelative:onetooneexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E0B37E-DFB5-459D-A409-154F16258363}|ClassLibrary1\\ClassLibrary1.csproj|d:\\aspnetcore\\section 32 c# essentials\\objectrelationsexample\\onetooneexample\\classlibrary1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E0B37E-DFB5-459D-A409-154F16258363}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E0B37E-DFB5-459D-A409-154F16258363}|ClassLibrary1\\ClassLibrary1.csproj|d:\\aspnetcore\\section 32 c# essentials\\objectrelationsexample\\onetooneexample\\classlibrary1\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E0B37E-DFB5-459D-A409-154F16258363}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 32 C# Essentials\\ObjectRelationsExample\\OneToOneExample\\ClassLibrary1\\Student.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Student.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 32 C# Essentials\\ObjectRelationsExample\\OneToOneExample\\ClassLibrary1\\Student.cs",
+              "RelativeToolTip": "ClassLibrary1\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:35:17.239Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 32 C# Essentials\\ObjectRelationsExample\\OneToOneExample\\ClassLibrary1\\Branch.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Branch.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 32 C# Essentials\\ObjectRelationsExample\\OneToOneExample\\ClassLibrary1\\Branch.cs",
+              "RelativeToolTip": "ClassLibrary1\\Branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:36:41.49Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\aspnetcore\\Section 32 C# Essentials\\ObjectRelationsExample\\OneToOneExample\\OneToOneExample\\Program.cs",
+              "RelativeDocumentMoniker": "OneToOneExample\\Program.cs",
+              "ToolTip": "D:\\aspnetcore\\Section 32 C# Essentials\\ObjectRelationsExample\\OneToOneExample\\OneToOneExample\\Program.cs",
+              "RelativeToolTip": "OneToOneExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:38:54.984Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

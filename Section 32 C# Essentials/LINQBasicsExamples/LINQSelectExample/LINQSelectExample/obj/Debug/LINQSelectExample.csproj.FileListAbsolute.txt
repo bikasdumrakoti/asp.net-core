@@ -1,0 +1,7 @@
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQSelectExample\LINQSelectExample\bin\Debug\LINQSelectExample.exe.config
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQSelectExample\LINQSelectExample\bin\Debug\LINQSelectExample.exe
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQSelectExample\LINQSelectExample\bin\Debug\LINQSelectExample.pdb
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQSelectExample\LINQSelectExample\obj\Debug\LINQSelectExample.csproj.AssemblyReference.cache
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQSelectExample\LINQSelectExample\obj\Debug\LINQSelectExample.csproj.CoreCompileInputs.cache
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQSelectExample\LINQSelectExample\obj\Debug\LINQSelectExample.exe
+D:\aspnetcore\Section 32 C# Essentials\LINQBasicsExamples\LINQSelectExample\LINQSelectExample\obj\Debug\LINQSelectExample.pdb
