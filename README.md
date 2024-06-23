@@ -1,1 +1,1 @@
-"# aspnetcore" 
+This repository is all about ASP.NET Core as taught by Mr. Harsha Vardhan in his Udemy course "Asp.Net Core 8 (.NET 8) | True Ultimate Guide". Almost all the concepts covered in the course can be found in subsequent sections in this repository.
