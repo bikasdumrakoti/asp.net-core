@@ -8,8 +8,9 @@ D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.Infrastr
 D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.Infrastructure\bin\Debug\net6.0\StocksApp.Infrastructure.pdb
 D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.Infrastructure\bin\Debug\net6.0\StocksApp.Core.dll
 D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.Infrastructure\bin\Debug\net6.0\StocksApp.Core.pdb
-D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\StocksApp.Infrastructure.csproj.CopyComplete
 D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\StocksApp.Infrastructure.dll
 D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\refint\StocksApp.Infrastructure.dll
 D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\StocksApp.Infrastructure.pdb
 D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\ref\StocksApp.Infrastructure.dll
+D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\StocksApp.Infrastructure.sourcelink.json
+D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.Infrastructure\obj\Debug\net6.0\StocksAp.1E3393BE.Up2Date

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8sNyWgob6Y5ROh/0W7IbZmy6tbMKqvfVv4lornsF/+V23A6Qowu4CuLl3AXq3+h45oUSEv1tJBis4XraBxfQdA==",
+  "dgSpecHash": "jkHly7JmY28=",
   "success": true,
   "projectFilePath": "D:\\aspnetcore\\Section 24 Clean Architecture\\StocksAppSolution\\StocksApp.Core\\StocksApp.Core.csproj",
   "expectedPackageFiles": [],

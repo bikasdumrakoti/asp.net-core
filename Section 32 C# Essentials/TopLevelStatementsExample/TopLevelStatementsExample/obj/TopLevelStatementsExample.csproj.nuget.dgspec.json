@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\aspnetcore\\Section 32 C# Essentials\\TopLevelStatementsExample\\TopLevelStatementsExample\\TopLevelStatementsExample.csproj": {}
+    "D:\\asp.net-core\\Section 32 C# Essentials\\TopLevelStatementsExample\\TopLevelStatementsExample\\TopLevelStatementsExample.csproj": {}
   },
   "projects": {
-    "D:\\aspnetcore\\Section 32 C# Essentials\\TopLevelStatementsExample\\TopLevelStatementsExample\\TopLevelStatementsExample.csproj": {
+    "D:\\asp.net-core\\Section 32 C# Essentials\\TopLevelStatementsExample\\TopLevelStatementsExample\\TopLevelStatementsExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aspnetcore\\Section 32 C# Essentials\\TopLevelStatementsExample\\TopLevelStatementsExample\\TopLevelStatementsExample.csproj",
+        "projectUniqueName": "D:\\asp.net-core\\Section 32 C# Essentials\\TopLevelStatementsExample\\TopLevelStatementsExample\\TopLevelStatementsExample.csproj",
         "projectName": "TopLevelStatementsExample",
-        "projectPath": "D:\\aspnetcore\\Section 32 C# Essentials\\TopLevelStatementsExample\\TopLevelStatementsExample\\TopLevelStatementsExample.csproj",
+        "projectPath": "D:\\asp.net-core\\Section 32 C# Essentials\\TopLevelStatementsExample\\TopLevelStatementsExample\\TopLevelStatementsExample.csproj",
         "packagesPath": "C:\\Users\\Bikash Dumrakoti\\.nuget\\packages\\",
-        "outputPath": "D:\\aspnetcore\\Section 32 C# Essentials\\TopLevelStatementsExample\\TopLevelStatementsExample\\obj\\",
+        "outputPath": "D:\\asp.net-core\\Section 32 C# Essentials\\TopLevelStatementsExample\\TopLevelStatementsExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bikash Dumrakoti\\AppData\\Roaming\\NuGet\\NuGet.Config",

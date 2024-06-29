@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StocksApp.ControllerTests
 build_property.ProjectDir = D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.ControllerTests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

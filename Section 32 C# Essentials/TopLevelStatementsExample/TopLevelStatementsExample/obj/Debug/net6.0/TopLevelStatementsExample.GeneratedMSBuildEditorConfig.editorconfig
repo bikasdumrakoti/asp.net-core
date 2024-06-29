@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TopLevelStatementsExample
-build_property.ProjectDir = D:\aspnetcore\Section 32 C# Essentials\TopLevelStatementsExample\TopLevelStatementsExample\
+build_property.ProjectDir = D:\asp.net-core\Section 32 C# Essentials\TopLevelStatementsExample\TopLevelStatementsExample\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

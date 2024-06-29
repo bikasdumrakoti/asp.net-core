@@ -91,6 +91,7 @@ D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.UI\bin\D
 D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.UI\bin\Debug\net6.0\StocksApp.Infrastructure.dll
 D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.UI\bin\Debug\net6.0\StocksApp.Core.pdb
 D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.UI\bin\Debug\net6.0\StocksApp.Infrastructure.pdb
-D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.UI\obj\Debug\net6.0\StocksApp.UI.csproj.CopyComplete
 D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.UI\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
 D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.UI\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.UI\obj\Debug\net6.0\StocksApp.UI.sourcelink.json
+D:\aspnetcore\Section 24 Clean Architecture\StocksAppSolution\StocksApp.UI\obj\Debug\net6.0\StocksAp.D84ACA54.Up2Date
